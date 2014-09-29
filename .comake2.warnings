@@ -1,0 +1,72 @@
+### Warnings auto-collected by comake2 tool ###
+
+
+
+WarningType-1: 主模块在依赖打平过程中选择了次新版本
+
+
+
+WarningType-2: 其他模块在依赖打平过程中选择了次新版本
+
+
+
+WarningType-3: 主模块或其他模块在依赖打平过程中选择了最新版本，不过存在其他版本
+====================================================================
+=== app-test/search/lbs-stat/upps_test/jenkinsFramework/protobuf ===
+====================================================================
+[v]public/connectpool@connectpool_2-1-4-0_PD_BL, releasing
+    [o]public/connectpool@connectpool_2-0-7-0_PD_BL, releasing
+        public/pbrpc@pbrpc_1-0-21-0_PD_BL
+        public/ub@ub_1-2-55-0_PD_BL
+[v]lib2-64/bsl@bsl_1-1-25-0_PD_BL, released
+    [o]lib2-64/bsl@bsl_1-1-8-0_PD_BL, releasing
+        public/configure@configure_1-2-12-0_PD_BL
+        public/comlog-plugin@comlog-plugin_1-0-11-0_PD_BL
+        public/configure@configure_1-2-3-0_PD_BL
+        public/connectpool@connectpool_2-1-4-0_PD_BL
+        public/configure@configure_1-2-2-4_PD_BL
+[v]inf/common/share@share_1-0-16-0_PD_BL, released
+    [o]inf/common/share@share_1-0-15-0_PD_BL, released
+        public/hulu/pbrpc@pbrpc_1-0-20-0_PD_BL
+        public/hulu/saber@saber_1-0-18-0_PD_BL
+[v]lib2-64/ullib@ullib_3-1-90-0_PD_BL, released
+    [o]lib2-64/ullib@ullib_3-1-85-0_PD_BL, released
+        public/hulu/pbrpc@pbrpc_1-0-20-0_PD_BL
+    [o]lib2-64/ullib@ullib_3-1-77-0_PD_BL, released
+        public/comlog-plugin@comlog-plugin_1-0-11-0_PD_BL
+        public/pbrpc@pbrpc_1-0-21-0_PD_BL
+    [o]lib2-64/ullib@ullib_3-1-74-0_PD_BL, released
+        public/ub@ub_1-2-55-0_PD_BL
+        public/hulu/saber@saber_1-0-18-0_PD_BL
+        public/hulu/saber@saber_1-0-21-3_PD_BL
+    [o]lib2-64/ullib@ullib_3-1-43-2_PD_BL, releasing
+        public/configure@configure_1-2-12-0_PD_BL
+        public/configure@configure_1-2-3-0_PD_BL
+        public/connectpool@connectpool_2-1-4-0_PD_BL
+        public/configure@configure_1-2-2-4_PD_BL
+[v]public/spreg@spreg_1-0-3-0_PD_BL, released
+    [o]public/spreg@spreg_1-0-2-0_PD_BL, released
+        public/configure@configure_1-2-3-0_PD_BL
+        public/pbrpc@pbrpc_1-0-21-0_PD_BL
+        public/configure@configure_1-2-2-4_PD_BL
+        public/ub@ub_1-2-55-0_PD_BL
+[v]public/hulu/saber@saber_1-0-21-3_PD_BL, released
+    [o]public/hulu/saber@saber_1-0-18-0_PD_BL, released
+        public/hulu/pbrpc@pbrpc_1-0-20-0_PD_BL
+[v]public/configure@configure_1-2-12-0_PD_BL, released
+    [o]public/configure@configure_1-2-3-0_PD_BL, released
+        public/comlog-plugin@comlog-plugin_1-0-11-0_PD_BL
+        public/connectpool@connectpool_2-1-4-0_PD_BL
+    [o]public/configure@configure_1-2-2-4_PD_BL, released
+        public/pbrpc@pbrpc_1-0-21-0_PD_BL
+        public/ub@ub_1-2-55-0_PD_BL
+[v]public/comlog-plugin@comlog-plugin_1-0-11-0_PD_BL, releasing
+    [o]public/comlog-plugin@comlog-plugin_1-0-6-1_PD_BL, released
+        public/pbrpc@pbrpc_1-0-21-0_PD_BL
+        public/ub@ub_1-2-55-0_PD_BL
+[v]third-64/protobuf@protobuf_2-4-1-1100_PD_BL, released
+    [o]third-64/protobuf@protobuf_2-4-1-500_PD_BL, released
+        public/pbrpc@pbrpc_1-0-21-0_PD_BL
+        public/ub@ub_1-2-55-0_PD_BL
+    [o]third-64/protobuf@protobuf_2-4-1-400_PD_BL, released
+        public/protobuf-json@protobuf-json_1-0-0-0_PD_BL

@@ -1,0 +1,255 @@
+WARNING: 09-28 20:58:07:  pbrpc * 22130 --------------------------------------------------------------- open log.wf ------------
+WARNING: 09-28 20:58:07:  pbrpc * 22132 --------------------------------------------------------------- open log_r.1091230048.wf ------------
+WARNING: 09-28 20:58:07:  pbrpc * 22133 --------------------------------------------------------------- open log_r.1112471904.wf ------------
+WARNING: 09-28 20:58:07:  pbrpc * 22134 --------------------------------------------------------------- open log_r.1122961760.wf ------------
+WARNING: 09-28 20:58:07:  pbrpc * 22135 --------------------------------------------------------------- open log_r.1133451616.wf ------------
+WARNING: 09-28 20:58:07:  pbrpc * 22136 --------------------------------------------------------------- open log_r.1143941472.wf ------------
+WARNING: 09-28 20:58:07:  pbrpc * 22130 [  logid:  ][  reqip:  ][ucm_monitor.cpp:69]not set UbMonitor
+WARNING: 09-28 20:58:07:  pbrpc * 22145 --------------------------------------------------------------- open log_r.1238350176.wf ------------
+WARNING: 09-28 20:58:07:  pbrpc * 22138 --------------------------------------------------------------- open log_r.1164921184.wf ------------
+WARNING: 09-28 20:58:07:  pbrpc * 22139 --------------------------------------------------------------- open log_r.1175411040.wf ------------
+WARNING: 09-28 20:58:07:  pbrpc * 22140 --------------------------------------------------------------- open log_r.1185900896.wf ------------
+WARNING: 09-28 20:58:07:  pbrpc * 22141 --------------------------------------------------------------- open log_r.1196390752.wf ------------
+WARNING: 09-28 20:58:07:  pbrpc * 22142 --------------------------------------------------------------- open log_r.1206880608.wf ------------
+WARNING: 09-28 20:58:07:  pbrpc * 22143 --------------------------------------------------------------- open log_r.1217370464.wf ------------
+WARNING: 09-28 20:58:07:  pbrpc * 22144 --------------------------------------------------------------- open log_r.1227860320.wf ------------
+WARNING: 09-28 20:58:07:  pbrpc * 22137 --------------------------------------------------------------- open log_r.1154431328.wf ------------
+WARNING: 09-28 20:58:07:  pbrpc * 22146 --------------------------------------------------------------- open log_r.1248840032.wf ------------
+WARNING: 09-28 20:58:07:  pbrpc * 22147 --------------------------------------------------------------- open log_r.1259329888.wf ------------
+WARNING: 09-28 20:58:07:  pbrpc * 22130 [logid:0] [ubclient_manager.cpp:998] [ub_client:] [need_care:no] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: get service(UserService)'s UbClientPool instance Failed]
+WARNING: 09-28 20:58:07:  pbrpc * 22130 [ logid:0 ] [PbProtocol.cpp:29]service [UserService] is not exist
+WARNING: 09-28 20:58:30:  pbrpc * 22960 --------------------------------------------------------------- open log.wf ------------
+WARNING: 09-28 20:58:30:  pbrpc * 22962 --------------------------------------------------------------- open log_r.1090074976.wf ------------
+WARNING: 09-28 20:58:30:  pbrpc * 22963 --------------------------------------------------------------- open log_r.1120659808.wf ------------
+WARNING: 09-28 20:58:30:  pbrpc * 22964 --------------------------------------------------------------- open log_r.1131149664.wf ------------
+WARNING: 09-28 20:58:30:  pbrpc * 22965 --------------------------------------------------------------- open log_r.1141639520.wf ------------
+WARNING: 09-28 20:58:30:  pbrpc * 22972 --------------------------------------------------------------- open log_r.1215068512.wf ------------
+WARNING: 09-28 20:58:30:  pbrpc * 22960 [  logid:  ][  reqip:  ][ucm_monitor.cpp:69]not set UbMonitor
+WARNING: 09-28 20:58:30:  pbrpc * 22967 --------------------------------------------------------------- open log_r.1162619232.wf ------------
+WARNING: 09-28 20:58:30:  pbrpc * 22968 --------------------------------------------------------------- open log_r.1173109088.wf ------------
+WARNING: 09-28 20:58:30:  pbrpc * 22969 --------------------------------------------------------------- open log_r.1183598944.wf ------------
+WARNING: 09-28 20:58:30:  pbrpc * 22970 --------------------------------------------------------------- open log_r.1194088800.wf ------------
+WARNING: 09-28 20:58:30:  pbrpc * 22971 --------------------------------------------------------------- open log_r.1204578656.wf ------------
+WARNING: 09-28 20:58:30:  pbrpc * 22966 --------------------------------------------------------------- open log_r.1152129376.wf ------------
+WARNING: 09-28 20:58:30:  pbrpc * 22973 --------------------------------------------------------------- open log_r.1225558368.wf ------------
+WARNING: 09-28 20:58:30:  pbrpc * 22974 --------------------------------------------------------------- open log_r.1236048224.wf ------------
+WARNING: 09-28 20:58:30:  pbrpc * 22975 --------------------------------------------------------------- open log_r.1246538080.wf ------------
+WARNING: 09-28 20:58:30:  pbrpc * 22976 --------------------------------------------------------------- open log_r.1257027936.wf ------------
+WARNING: 09-28 20:58:30:  pbrpc * 22977 --------------------------------------------------------------- open log_r.1267517792.wf ------------
+WARNING: 09-28 20:58:30:  pbrpc * 22960 [logid:0] [ubclient_manager.cpp:998] [ub_client:] [need_care:no] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: get service(UserService)'s UbClientPool instance Failed]
+WARNING: 09-28 20:58:30:  pbrpc * 22960 [ logid:0 ] [PbProtocol.cpp:29]service [UserService] is not exist
+WARNING: 09-28 20:58:43:  pbrpc * 23346 --------------------------------------------------------------- open log.wf ------------
+WARNING: 09-28 20:58:43:  pbrpc * 23348 --------------------------------------------------------------- open log_r.1117620576.wf ------------
+WARNING: 09-28 20:58:43:  pbrpc * 23349 --------------------------------------------------------------- open log_r.1089268064.wf ------------
+WARNING: 09-28 20:58:43:  pbrpc * 23353 --------------------------------------------------------------- open log_r.1159580000.wf ------------
+WARNING: 09-28 20:58:43:  pbrpc * 23351 --------------------------------------------------------------- open log_r.1138600288.wf ------------
+WARNING: 09-28 20:58:43:  pbrpc * 23352 --------------------------------------------------------------- open log_r.1149090144.wf ------------
+WARNING: 09-28 20:58:43:  pbrpc * 23346 [  logid:  ][  reqip:  ][ucm_monitor.cpp:69]not set UbMonitor
+WARNING: 09-28 20:58:43:  pbrpc * 23361 --------------------------------------------------------------- open log_r.1243498848.wf ------------
+WARNING: 09-28 20:58:43:  pbrpc * 23354 --------------------------------------------------------------- open log_r.1170069856.wf ------------
+WARNING: 09-28 20:58:43:  pbrpc * 23355 --------------------------------------------------------------- open log_r.1180559712.wf ------------
+WARNING: 09-28 20:58:43:  pbrpc * 23356 --------------------------------------------------------------- open log_r.1191049568.wf ------------
+WARNING: 09-28 20:58:43:  pbrpc * 23357 --------------------------------------------------------------- open log_r.1201539424.wf ------------
+WARNING: 09-28 20:58:43:  pbrpc * 23358 --------------------------------------------------------------- open log_r.1212029280.wf ------------
+WARNING: 09-28 20:58:43:  pbrpc * 23359 --------------------------------------------------------------- open log_r.1222519136.wf ------------
+WARNING: 09-28 20:58:43:  pbrpc * 23360 --------------------------------------------------------------- open log_r.1233008992.wf ------------
+WARNING: 09-28 20:58:43:  pbrpc * 23350 --------------------------------------------------------------- open log_r.1128110432.wf ------------
+WARNING: 09-28 20:58:43:  pbrpc * 23362 --------------------------------------------------------------- open log_r.1253988704.wf ------------
+WARNING: 09-28 20:58:43:  pbrpc * 23363 --------------------------------------------------------------- open log_r.1264478560.wf ------------
+WARNING: 09-28 21:04:12:  pbrpc * 5373 --------------------------------------------------------------- open log.wf ------------
+WARNING: 09-28 21:04:12:  pbrpc * 5375 --------------------------------------------------------------- open log_r.1111333216.wf ------------
+WARNING: 09-28 21:04:12:  pbrpc * 5376 --------------------------------------------------------------- open log_r.1121823072.wf ------------
+WARNING: 09-28 21:04:12:  pbrpc * 5377 --------------------------------------------------------------- open log_r.1132312928.wf ------------
+WARNING: 09-28 21:04:12:  pbrpc * 5378 --------------------------------------------------------------- open log_r.1142802784.wf ------------
+WARNING: 09-28 21:04:12:  pbrpc * 5379 --------------------------------------------------------------- open log_r.1153292640.wf ------------
+WARNING: 09-28 21:04:12:  pbrpc * 5373 [  logid:  ][  reqip:  ][ucm_monitor.cpp:69]not set UbMonitor
+WARNING: 09-28 21:04:12:  pbrpc * 5380 --------------------------------------------------------------- open log_r.1163782496.wf ------------
+WARNING: 09-28 21:04:12:  pbrpc * 5381 --------------------------------------------------------------- open log_r.1174272352.wf ------------
+WARNING: 09-28 21:04:12:  pbrpc * 5382 --------------------------------------------------------------- open log_r.1184762208.wf ------------
+WARNING: 09-28 21:04:12:  pbrpc * 5383 --------------------------------------------------------------- open log_r.1195252064.wf ------------
+WARNING: 09-28 21:04:12:  pbrpc * 5384 --------------------------------------------------------------- open log_r.1205741920.wf ------------
+WARNING: 09-28 21:04:12:  pbrpc * 5385 --------------------------------------------------------------- open log_r.1216231776.wf ------------
+WARNING: 09-28 21:04:12:  pbrpc * 5386 --------------------------------------------------------------- open log_r.1226721632.wf ------------
+WARNING: 09-28 21:04:12:  pbrpc * 5387 --------------------------------------------------------------- open log_r.1237211488.wf ------------
+WARNING: 09-28 21:04:12:  pbrpc * 5388 --------------------------------------------------------------- open log_r.1247701344.wf ------------
+WARNING: 09-28 21:04:12:  pbrpc * 5389 --------------------------------------------------------------- open log_r.1258191200.wf ------------
+WARNING: 09-28 21:04:12:  pbrpc * 5390 --------------------------------------------------------------- open log_r.1268681056.wf ------------
+WARNING: 09-28 21:04:20:  pbrpc * 5740 --------------------------------------------------------------- open log.wf ------------
+WARNING: 09-28 21:04:20:  pbrpc * 5742 --------------------------------------------------------------- open log_r.1090845024.wf ------------
+WARNING: 09-28 21:04:20:  pbrpc * 5743 --------------------------------------------------------------- open log_r.1102461280.wf ------------
+WARNING: 09-28 21:04:20:  pbrpc * 5744 --------------------------------------------------------------- open log_r.1127782752.wf ------------
+WARNING: 09-28 21:04:20:  pbrpc * 5745 --------------------------------------------------------------- open log_r.1138272608.wf ------------
+WARNING: 09-28 21:04:20:  pbrpc * 5752 --------------------------------------------------------------- open log_r.1211701600.wf ------------
+WARNING: 09-28 21:04:20:  pbrpc * 5740 [  logid:  ][  reqip:  ][ucm_monitor.cpp:69]not set UbMonitor
+WARNING: 09-28 21:04:20:  pbrpc * 5754 --------------------------------------------------------------- open log_r.1232681312.wf ------------
+WARNING: 09-28 21:04:20:  pbrpc * 5748 --------------------------------------------------------------- open log_r.1169742176.wf ------------
+WARNING: 09-28 21:04:20:  pbrpc * 5749 --------------------------------------------------------------- open log_r.1180232032.wf ------------
+WARNING: 09-28 21:04:20:  pbrpc * 5750 --------------------------------------------------------------- open log_r.1190721888.wf ------------
+WARNING: 09-28 21:04:20:  pbrpc * 5751 --------------------------------------------------------------- open log_r.1201211744.wf ------------
+WARNING: 09-28 21:04:20:  pbrpc * 5746 --------------------------------------------------------------- open log_r.1148762464.wf ------------
+WARNING: 09-28 21:04:20:  pbrpc * 5753 --------------------------------------------------------------- open log_r.1222191456.wf ------------
+WARNING: 09-28 21:04:20:  pbrpc * 5747 --------------------------------------------------------------- open log_r.1159252320.wf ------------
+WARNING: 09-28 21:04:20:  pbrpc * 5755 --------------------------------------------------------------- open log_r.1243171168.wf ------------
+WARNING: 09-28 21:04:20:  pbrpc * 5756 --------------------------------------------------------------- open log_r.1253661024.wf ------------
+WARNING: 09-28 21:04:20:  pbrpc * 5757 --------------------------------------------------------------- open log_r.1264150880.wf ------------
+WARNING: 09-28 21:04:20:  pbrpc * 5740 [logid:0] [ubclient_manager.cpp:998] [ub_client:] [need_care:no] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: get service(Service1)'s UbClientPool instance Failed]
+WARNING: 09-28 21:04:20:  pbrpc * 5740 [ logid:0 ] [PbProtocol.cpp:29]service [Service1] is not exist
+WARNING: 09-28 21:04:26:  pbrpc * 5968 --------------------------------------------------------------- open log.wf ------------
+WARNING: 09-28 21:04:26:  pbrpc * 5970 --------------------------------------------------------------- open log_r.1116465504.wf ------------
+WARNING: 09-28 21:04:26:  pbrpc * 5971 --------------------------------------------------------------- open log_r.1126955360.wf ------------
+WARNING: 09-28 21:04:26:  pbrpc * 5972 --------------------------------------------------------------- open log_r.1137445216.wf ------------
+WARNING: 09-28 21:04:26:  pbrpc * 5978 --------------------------------------------------------------- open log_r.1200384352.wf ------------
+WARNING: 09-28 21:04:26:  pbrpc * 5974 --------------------------------------------------------------- open log_r.1158424928.wf ------------
+WARNING: 09-28 21:04:26:  pbrpc * 5968 [  logid:  ][  reqip:  ][ucm_monitor.cpp:69]not set UbMonitor
+WARNING: 09-28 21:04:26:  pbrpc * 5982 --------------------------------------------------------------- open log_r.1231853920.wf ------------
+WARNING: 09-28 21:04:26:  pbrpc * 5976 --------------------------------------------------------------- open log_r.1179404640.wf ------------
+WARNING: 09-28 21:04:26:  pbrpc * 5977 --------------------------------------------------------------- open log_r.1189894496.wf ------------
+WARNING: 09-28 21:04:26:  pbrpc * 5973 --------------------------------------------------------------- open log_r.1147935072.wf ------------
+WARNING: 09-28 21:04:26:  pbrpc * 5979 --------------------------------------------------------------- open log_r.1084385632.wf ------------
+WARNING: 09-28 21:04:26:  pbrpc * 5980 --------------------------------------------------------------- open log_r.1210874208.wf ------------
+WARNING: 09-28 21:04:26:  pbrpc * 5981 --------------------------------------------------------------- open log_r.1221364064.wf ------------
+WARNING: 09-28 21:04:26:  pbrpc * 5975 --------------------------------------------------------------- open log_r.1168914784.wf ------------
+WARNING: 09-28 21:04:26:  pbrpc * 5983 --------------------------------------------------------------- open log_r.1242343776.wf ------------
+WARNING: 09-28 21:04:26:  pbrpc * 5984 --------------------------------------------------------------- open log_r.1252833632.wf ------------
+WARNING: 09-28 21:04:26:  pbrpc * 5985 --------------------------------------------------------------- open log_r.1263323488.wf ------------
+WARNING: 09-28 21:04:26:  pbrpc * 5968 [logid:0] [ubclient_manager.cpp:998] [ub_client:] [need_care:no] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: get service(Service1)'s UbClientPool instance Failed]
+WARNING: 09-28 21:04:26:  pbrpc * 5968 [ logid:0 ] [PbProtocol.cpp:29]service [Service1] is not exist
+WARNING: 09-28 21:15:32:  pbrpc * 3331 --------------------------------------------------------------- open log.wf ------------
+WARNING: 09-28 21:15:32:  pbrpc * 3331 [logid:0] [ubclient_manager.cpp:1147] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: missing group of HealthyCheckSleepTime in configure file, using default 5000ms]
+WARNING: 09-28 21:15:32:  pbrpc * 3331 [logid:0] [ubclient_connectpool.cpp:115] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:UserService] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: the healthychecky is NULL, use default healthyChecker (UbClientHealthyChecker)]
+WARNING: 09-28 21:15:32:  pbrpc * 3331 [  logid:  ][  reqip:  ][ubclient_healthycheck.cpp:51]conf to var error : [5]
+WARNING: 09-28 21:15:32:  pbrpc * 3331 [logid:0] [ubclient_connectpool.cpp:160] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: UbClientHealthyChecker load conf Failed, in UbClientPool::init(conf)]
+WARNING: 09-28 21:15:32:  pbrpc * 3333 --------------------------------------------------------------- open log_r.1106323808.wf ------------
+WARNING: 09-28 21:15:32:  pbrpc * 3331 [  logid:  ][  reqip:  ][ucm_monitor.cpp:69]not set UbMonitor
+WARNING: 09-28 21:15:32:  pbrpc * 3334 --------------------------------------------------------------- open log_r.1116813664.wf ------------
+WARNING: 09-28 21:15:32:  pbrpc * 3335 --------------------------------------------------------------- open log_r.1127303520.wf ------------
+WARNING: 09-28 21:15:32:  pbrpc * 3336 --------------------------------------------------------------- open log_r.1137793376.wf ------------
+WARNING: 09-28 21:23:41:  pbrpc * 23287 --------------------------------------------------------------- open log.wf ------------
+WARNING: 09-28 21:23:41:  pbrpc * 23287 [logid:0] [ubclient_manager.cpp:1147] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: missing group of HealthyCheckSleepTime in configure file, using default 5000ms]
+WARNING: 09-28 21:23:41:  pbrpc * 23287 [logid:0] [ubclient_connectpool.cpp:115] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:UserServiceXXX] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: the healthychecky is NULL, use default healthyChecker (UbClientHealthyChecker)]
+WARNING: 09-28 21:23:41:  pbrpc * 23287 [  logid:  ][  reqip:  ][ubclient_healthycheck.cpp:51]conf to var error : [5]
+WARNING: 09-28 21:23:41:  pbrpc * 23287 [logid:0] [ubclient_connectpool.cpp:160] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: UbClientHealthyChecker load conf Failed, in UbClientPool::init(conf)]
+WARNING: 09-28 21:23:41:  pbrpc * 23289 --------------------------------------------------------------- open log_r.1101621600.wf ------------
+WARNING: 09-28 21:23:41:  pbrpc * 23287 [  logid:  ][  reqip:  ][ucm_monitor.cpp:69]not set UbMonitor
+WARNING: 09-28 21:23:41:  pbrpc * 23291 --------------------------------------------------------------- open log_r.1122601312.wf ------------
+WARNING: 09-28 21:23:41:  pbrpc * 23290 --------------------------------------------------------------- open log_r.1112111456.wf ------------
+WARNING: 09-28 21:23:41:  pbrpc * 23292 --------------------------------------------------------------- open log_r.1133091168.wf ------------
+WARNING: 09-28 21:23:41:  pbrpc * 23287 [logid:0] [ubclient_manager.cpp:998] [ub_client:] [need_care:no] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: get service(UserService)'s UbClientPool instance Failed]
+WARNING: 09-28 21:23:41:  pbrpc * 23287 [ logid:1 ] [PbProtocol.cpp:29]service [UserService] is not exist
+WARNING: 09-28 21:24:11:  pbrpc * 25715 --------------------------------------------------------------- open log.wf ------------
+WARNING: 09-28 21:24:11:  pbrpc * 25715 [logid:0] [ubclient_manager.cpp:1147] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: missing group of HealthyCheckSleepTime in configure file, using default 5000ms]
+WARNING: 09-28 21:24:11:  pbrpc * 25715 [logid:0] [ubclient_connectpool.cpp:84] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: missing service_name in UbClientPool::init(conf)]
+WARNING: 09-28 21:24:34:  pbrpc * 27001 --------------------------------------------------------------- open log.wf ------------
+WARNING: 09-28 21:24:34:  pbrpc * 27001 [logid:0] [ubclient_manager.cpp:1147] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: missing group of HealthyCheckSleepTime in configure file, using default 5000ms]
+WARNING: 09-28 21:24:34:  pbrpc * 27001 [logid:0] [ubclient_connectpool.cpp:84] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: missing service_name in UbClientPool::init(conf)]
+WARNING: 09-28 21:24:45:  pbrpc * 28408 --------------------------------------------------------------- open log.wf ------------
+WARNING: 09-28 21:24:45:  pbrpc * 28408 [logid:0] [ubclient_manager.cpp:1147] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: missing group of HealthyCheckSleepTime in configure file, using default 5000ms]
+WARNING: 09-28 21:24:45:  pbrpc * 28408 [logid:0] [ubclient_connectpool.cpp:115] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:UserService] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: the healthychecky is NULL, use default healthyChecker (UbClientHealthyChecker)]
+WARNING: 09-28 21:24:45:  pbrpc * 28408 [  logid:  ][  reqip:  ][ubclient_healthycheck.cpp:51]conf to var error : [5]
+WARNING: 09-28 21:24:45:  pbrpc * 28408 [logid:0] [ubclient_connectpool.cpp:160] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: UbClientHealthyChecker load conf Failed, in UbClientPool::init(conf)]
+WARNING: 09-28 21:24:45:  pbrpc * 28410 --------------------------------------------------------------- open log_r.1096431968.wf ------------
+WARNING: 09-28 21:24:45:  pbrpc * 28408 [  logid:  ][  reqip:  ][ucm_monitor.cpp:69]not set UbMonitor
+WARNING: 09-28 21:24:45:  pbrpc * 28411 --------------------------------------------------------------- open log_r.1106921824.wf ------------
+WARNING: 09-28 21:24:45:  pbrpc * 28412 --------------------------------------------------------------- open log_r.1117411680.wf ------------
+WARNING: 09-28 21:24:45:  pbrpc * 28413 --------------------------------------------------------------- open log_r.1127901536.wf ------------
+WARNING: 09-28 21:24:48:  pbrpc * 28444 --------------------------------------------------------------- open log.wf ------------
+WARNING: 09-28 21:24:48:  pbrpc * 28444 [logid:0] [ubclient_manager.cpp:1147] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: missing group of HealthyCheckSleepTime in configure file, using default 5000ms]
+WARNING: 09-28 21:24:48:  pbrpc * 28444 [logid:0] [ubclient_connectpool.cpp:115] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:UserService] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: the healthychecky is NULL, use default healthyChecker (UbClientHealthyChecker)]
+WARNING: 09-28 21:24:48:  pbrpc * 28444 [  logid:  ][  reqip:  ][ubclient_healthycheck.cpp:51]conf to var error : [5]
+WARNING: 09-28 21:24:48:  pbrpc * 28444 [logid:0] [ubclient_connectpool.cpp:160] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: UbClientHealthyChecker load conf Failed, in UbClientPool::init(conf)]
+WARNING: 09-28 21:24:48:  pbrpc * 28446 --------------------------------------------------------------- open log_r.1090115936.wf ------------
+WARNING: 09-28 21:24:48:  pbrpc * 28444 [  logid:  ][  reqip:  ][ucm_monitor.cpp:69]not set UbMonitor
+WARNING: 09-28 21:24:48:  pbrpc * 28447 --------------------------------------------------------------- open log_r.1100605792.wf ------------
+WARNING: 09-28 21:24:48:  pbrpc * 28448 --------------------------------------------------------------- open log_r.1125460320.wf ------------
+WARNING: 09-28 21:24:48:  pbrpc * 28449 --------------------------------------------------------------- open log_r.1135950176.wf ------------
+WARNING: 09-28 21:54:08:  pbrpc * 4209 --------------------------------------------------------------- open log.wf ------------
+WARNING: 09-28 21:54:08:  pbrpc * 4209 [logid:0] [ubclient_manager.cpp:1147] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: missing group of HealthyCheckSleepTime in configure file, using default 5000ms]
+WARNING: 09-28 21:54:08:  pbrpc * 4209 [logid:0] [ubclient_connectpool.cpp:115] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:UserService] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: the healthychecky is NULL, use default healthyChecker (UbClientHealthyChecker)]
+WARNING: 09-28 21:54:08:  pbrpc * 4209 [  logid:  ][  reqip:  ][ubclient_healthycheck.cpp:51]conf to var error : [5]
+WARNING: 09-28 21:54:08:  pbrpc * 4209 [logid:0] [ubclient_connectpool.cpp:160] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: UbClientHealthyChecker load conf Failed, in UbClientPool::init(conf)]
+WARNING: 09-28 21:54:08:  pbrpc * 4212 --------------------------------------------------------------- open log_r.1107151200.wf ------------
+WARNING: 09-28 21:54:08:  pbrpc * 4209 [  logid:  ][  reqip:  ][ucm_monitor.cpp:69]not set UbMonitor
+WARNING: 09-28 21:54:08:  pbrpc * 4214 --------------------------------------------------------------- open log_r.1128130912.wf ------------
+WARNING: 09-28 21:54:08:  pbrpc * 4213 --------------------------------------------------------------- open log_r.1117641056.wf ------------
+WARNING: 09-28 21:54:08:  pbrpc * 4215 --------------------------------------------------------------- open log_r.1138620768.wf ------------
+WARNING: 09-28 21:54:41:  pbrpc * 5598 --------------------------------------------------------------- open log.wf ------------
+WARNING: 09-28 21:54:41:  pbrpc * 5598 [logid:0] [ubclient_manager.cpp:1147] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: missing group of HealthyCheckSleepTime in configure file, using default 5000ms]
+WARNING: 09-28 21:54:41:  pbrpc * 5598 [logid:0] [ubclient_connectpool.cpp:115] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:UserService] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: the healthychecky is NULL, use default healthyChecker (UbClientHealthyChecker)]
+WARNING: 09-28 21:54:41:  pbrpc * 5598 [  logid:  ][  reqip:  ][ubclient_healthycheck.cpp:51]conf to var error : [5]
+WARNING: 09-28 21:54:41:  pbrpc * 5598 [logid:0] [ubclient_connectpool.cpp:160] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: UbClientHealthyChecker load conf Failed, in UbClientPool::init(conf)]
+WARNING: 09-28 21:54:41:  pbrpc * 5601 --------------------------------------------------------------- open log_r.1084557664.wf ------------
+WARNING: 09-28 21:54:41:  pbrpc * 5598 [  logid:  ][  reqip:  ][ucm_monitor.cpp:69]not set UbMonitor
+WARNING: 09-28 21:54:41:  pbrpc * 5602 --------------------------------------------------------------- open log_r.1116625248.wf ------------
+WARNING: 09-28 21:54:41:  pbrpc * 5603 --------------------------------------------------------------- open log_r.1127115104.wf ------------
+WARNING: 09-28 21:54:41:  pbrpc * 5604 --------------------------------------------------------------- open log_r.1137604960.wf ------------
+WARNING: 09-28 21:55:33:  pbrpc * 9274 --------------------------------------------------------------- open log.wf ------------
+WARNING: 09-28 21:55:33:  pbrpc * 9274 [logid:0] [ubclient_manager.cpp:1147] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: missing group of HealthyCheckSleepTime in configure file, using default 5000ms]
+WARNING: 09-28 21:55:33:  pbrpc * 9274 [logid:0] [ubclient_connectpool.cpp:115] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:UserService] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: the healthychecky is NULL, use default healthyChecker (UbClientHealthyChecker)]
+WARNING: 09-28 21:55:33:  pbrpc * 9274 [  logid:  ][  reqip:  ][ubclient_healthycheck.cpp:51]conf to var error : [5]
+WARNING: 09-28 21:55:33:  pbrpc * 9274 [logid:0] [ubclient_connectpool.cpp:160] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: UbClientHealthyChecker load conf Failed, in UbClientPool::init(conf)]
+WARNING: 09-28 21:55:33:  pbrpc * 9277 --------------------------------------------------------------- open log_r.1098307936.wf ------------
+WARNING: 09-28 21:55:33:  pbrpc * 9274 [  logid:  ][  reqip:  ][ucm_monitor.cpp:69]not set UbMonitor
+WARNING: 09-28 21:55:33:  pbrpc * 9279 --------------------------------------------------------------- open log_r.1119287648.wf ------------
+WARNING: 09-28 21:55:33:  pbrpc * 9278 --------------------------------------------------------------- open log_r.1108797792.wf ------------
+WARNING: 09-28 21:55:33:  pbrpc * 9280 --------------------------------------------------------------- open log_r.1129777504.wf ------------
+WARNING: 09-28 21:57:59:  pbrpc * 15151 --------------------------------------------------------------- open log.wf ------------
+WARNING: 09-28 21:57:59:  pbrpc * 15151 [logid:0] [ubclient_manager.cpp:1147] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: missing group of HealthyCheckSleepTime in configure file, using default 5000ms]
+WARNING: 09-28 21:57:59:  pbrpc * 15151 [logid:0] [ubclient_connectpool.cpp:115] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:UserService] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: the healthychecky is NULL, use default healthyChecker (UbClientHealthyChecker)]
+WARNING: 09-28 21:57:59:  pbrpc * 15151 [  logid:  ][  reqip:  ][ubclient_healthycheck.cpp:51]conf to var error : [5]
+WARNING: 09-28 21:57:59:  pbrpc * 15151 [logid:0] [ubclient_connectpool.cpp:160] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: UbClientHealthyChecker load conf Failed, in UbClientPool::init(conf)]
+WARNING: 09-28 21:57:59:  pbrpc * 15151 [  logid:  ][  reqip:  ][ucm_monitor.cpp:69]not set UbMonitor
+WARNING: 09-28 21:57:59:  pbrpc * 15154 --------------------------------------------------------------- open log_r.1111767392.wf ------------
+WARNING: 09-28 21:57:59:  pbrpc * 15155 --------------------------------------------------------------- open log_r.1122257248.wf ------------
+WARNING: 09-28 21:57:59:  pbrpc * 15156 --------------------------------------------------------------- open log_r.1085573472.wf ------------
+WARNING: 09-28 21:57:59:  pbrpc * 15157 --------------------------------------------------------------- open log_r.1132747104.wf ------------
+WARNING: 09-28 22:01:40:  pbrpc * 24358 --------------------------------------------------------------- open log.wf ------------
+WARNING: 09-28 22:01:40:  pbrpc * 24358 [logid:0] [ubclient_manager.cpp:1147] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: missing group of HealthyCheckSleepTime in configure file, using default 5000ms]
+WARNING: 09-28 22:01:40:  pbrpc * 24358 [logid:0] [ubclient_connectpool.cpp:115] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:UserService] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: the healthychecky is NULL, use default healthyChecker (UbClientHealthyChecker)]
+WARNING: 09-28 22:01:40:  pbrpc * 24358 [  logid:  ][  reqip:  ][ubclient_healthycheck.cpp:51]conf to var error : [5]
+WARNING: 09-28 22:01:40:  pbrpc * 24358 [logid:0] [ubclient_connectpool.cpp:160] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: UbClientHealthyChecker load conf Failed, in UbClientPool::init(conf)]
+WARNING: 09-28 22:01:40:  pbrpc * 24358 [  logid:  ][  reqip:  ][ucm_monitor.cpp:69]not set UbMonitor
+WARNING: 09-28 22:01:40:  pbrpc * 24361 --------------------------------------------------------------- open log_r.1107024224.wf ------------
+WARNING: 09-28 22:01:40:  pbrpc * 24362 --------------------------------------------------------------- open log_r.1117514080.wf ------------
+WARNING: 09-28 22:01:40:  pbrpc * 24363 --------------------------------------------------------------- open log_r.1128003936.wf ------------
+WARNING: 09-28 22:01:40:  pbrpc * 24364 --------------------------------------------------------------- open log_r.1138493792.wf ------------
+WARNING: 09-28 22:16:48:  pbrpc * 31108 --------------------------------------------------------------- open log.wf ------------
+WARNING: 09-28 22:16:48:  pbrpc * 31108 [logid:0] [ubclient_manager.cpp:1147] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: missing group of HealthyCheckSleepTime in configure file, using default 5000ms]
+WARNING: 09-28 22:16:48:  pbrpc * 31108 [logid:0] [ubclient_connectpool.cpp:115] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:UserService] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: the healthychecky is NULL, use default healthyChecker (UbClientHealthyChecker)]
+WARNING: 09-28 22:16:48:  pbrpc * 31108 [  logid:  ][  reqip:  ][ubclient_healthycheck.cpp:51]conf to var error : [5]
+WARNING: 09-28 22:16:48:  pbrpc * 31108 [logid:0] [ubclient_connectpool.cpp:160] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: UbClientHealthyChecker load conf Failed, in UbClientPool::init(conf)]
+WARNING: 09-28 22:16:48:  pbrpc * 31111 --------------------------------------------------------------- open log_r.1084234080.wf ------------
+WARNING: 09-28 22:16:48:  pbrpc * 31108 [  logid:  ][  reqip:  ][ucm_monitor.cpp:69]not set UbMonitor
+WARNING: 09-28 22:16:48:  pbrpc * 31112 --------------------------------------------------------------- open log_r.1110579552.wf ------------
+WARNING: 09-28 22:16:48:  pbrpc * 31113 --------------------------------------------------------------- open log_r.1121069408.wf ------------
+WARNING: 09-28 22:16:48:  pbrpc * 31114 --------------------------------------------------------------- open log_r.1131559264.wf ------------
+WARNING: 09-28 22:19:05:  pbrpc * 3870 --------------------------------------------------------------- open log.wf ------------
+WARNING: 09-28 22:19:05:  pbrpc * 3870 [logid:0] [ubclient_manager.cpp:1147] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: missing group of HealthyCheckSleepTime in configure file, using default 5000ms]
+WARNING: 09-28 22:19:05:  pbrpc * 3870 [logid:0] [ubclient_connectpool.cpp:115] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:UserService] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: the healthychecky is NULL, use default healthyChecker (UbClientHealthyChecker)]
+WARNING: 09-28 22:19:05:  pbrpc * 3870 [  logid:  ][  reqip:  ][ubclient_healthycheck.cpp:51]conf to var error : [5]
+WARNING: 09-28 22:19:05:  pbrpc * 3870 [logid:0] [ubclient_connectpool.cpp:160] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: UbClientHealthyChecker load conf Failed, in UbClientPool::init(conf)]
+WARNING: 09-28 22:19:05:  pbrpc * 3873 --------------------------------------------------------------- open log_r.1112926560.wf ------------
+WARNING: 09-28 22:19:05:  pbrpc * 3870 [  logid:  ][  reqip:  ][ucm_monitor.cpp:69]not set UbMonitor
+WARNING: 09-28 22:19:05:  pbrpc * 3874 --------------------------------------------------------------- open log_r.1123416416.wf ------------
+WARNING: 09-28 22:19:05:  pbrpc * 3875 --------------------------------------------------------------- open log_r.1133906272.wf ------------
+WARNING: 09-28 22:19:05:  pbrpc * 3876 --------------------------------------------------------------- open log_r.1089395040.wf ------------
+WARNING: 09-28 22:53:37:  pbrpc * 28893 --------------------------------------------------------------- open log.wf ------------
+WARNING: 09-28 23:04:27:  pbrpc * 26206 --------------------------------------------------------------- open log.wf ------------
+WARNING: 09-28 23:04:27:  pbrpc * 26207 --------------------------------------------------------------- open log_r.1094764896.wf ------------
+WARNING: 09-28 23:04:27:  pbrpc * 26212 --------------------------------------------------------------- open log_r.1154472288.wf ------------
+WARNING: 09-28 23:04:27:  pbrpc * 26208 --------------------------------------------------------------- open log_r.1112512864.wf ------------
+WARNING: 09-28 23:04:27:  pbrpc * 26209 --------------------------------------------------------------- open log_r.1123002720.wf ------------
+WARNING: 09-28 23:04:27:  pbrpc * 26211 --------------------------------------------------------------- open log_r.1143982432.wf ------------
+WARNING: 09-28 23:04:27:  pbrpc * 26210 --------------------------------------------------------------- open log_r.1133492576.wf ------------
+WARNING: 09-28 23:04:27:  pbrpc * 26213 --------------------------------------------------------------- open log_r.1164962144.wf ------------
+WARNING: 09-28 23:04:27:  pbrpc * 26214 --------------------------------------------------------------- open log_r.1175452000.wf ------------
+WARNING: 09-28 23:04:27:  pbrpc * 26215 --------------------------------------------------------------- open log_r.1185941856.wf ------------
+WARNING: 09-28 23:04:49:  pbrpc * 27840 --------------------------------------------------------------- open log.wf ------------
+WARNING: 09-28 23:04:49:  pbrpc * 27840 [logid:0] [ubclient_manager.cpp:1147] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: missing group of HealthyCheckSleepTime in configure file, using default 5000ms]
+WARNING: 09-28 23:04:49:  pbrpc * 27840 [logid:0] [ubclient_connectpool.cpp:115] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:UserService] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: the healthychecky is NULL, use default healthyChecker (UbClientHealthyChecker)]
+WARNING: 09-28 23:04:49:  pbrpc * 27840 [  logid:  ][  reqip:  ][ubclient_healthycheck.cpp:51]conf to var error : [5]
+WARNING: 09-28 23:04:49:  pbrpc * 27840 [logid:0] [ubclient_connectpool.cpp:160] [ub_client:] [need_care:yes] [event_ptr:(nil)] [service:] [server_ip:] [server_port:0] [system_errno:] [system_msg:] [msg: UbClientHealthyChecker load conf Failed, in UbClientPool::init(conf)]
+WARNING: 09-28 23:04:49:  pbrpc * 27843 --------------------------------------------------------------- open log_r.1106205024.wf ------------
+WARNING: 09-28 23:04:49:  pbrpc * 27840 [  logid:  ][  reqip:  ][ucm_monitor.cpp:69]not set UbMonitor
+WARNING: 09-28 23:04:49:  pbrpc * 27844 --------------------------------------------------------------- open log_r.1116694880.wf ------------
+WARNING: 09-28 23:04:49:  pbrpc * 27845 --------------------------------------------------------------- open log_r.1127184736.wf ------------
+WARNING: 09-28 23:04:49:  pbrpc * 27846 --------------------------------------------------------------- open log_r.1137674592.wf ------------

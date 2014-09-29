@@ -1,0 +1,841 @@
+NOTICE: 09-28 20:58:07:  pbrpc * 22130 --------------------------------------------------------------- open log ------------
+DEBUG: 09-28 20:58:07:  pbrpc * 22130 [  logid:  ][ubclient_connectmanager.cpp:547][time:0us]defaultCapacity : [1000]
+DEBUG: 09-28 20:58:07:  pbrpc * 22130 [  logid:  ][ubclient_connectserver.cpp:90][time:0us]server port : 7788
+DEBUG: 09-28 20:58:07:  pbrpc * 22130 [  logid:  ][ubclient_connectserver.cpp:98][time:0us][1] [1.0.0] [1]
+DEBUG: 09-28 20:58:07:  pbrpc * 22130 [  logid:  ][ubclient_connectserver.cpp:102][time:0us]server max conn : [1000]
+DEBUG: 09-28 20:58:07:  pbrpc * 22130 [  logid:  ][ubclient_connectserver.cpp:108][time:0us]waiting num : [80]
+DEBUG: 09-28 20:58:07:  pbrpc * 22130 [  logid:  ][ubclient_connectserver.cpp:219][time:0us]last ip : [127.0.0.1]
+DEBUG: 09-28 20:58:07:  pbrpc * 22130 [  logid:  ][ubclient_connectserver.cpp:302][time:0us]clone
+NOTICE: 09-28 20:58:07:  pbrpc * 22130 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultConnectType:LONG  ]
+NOTICE: 09-28 20:58:07:  pbrpc * 22130 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultRetry:5  ]
+NOTICE: 09-28 20:58:07:  pbrpc * 22130 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultFetchConnMaxTime:0  ]
+NOTICE: 09-28 20:58:07:  pbrpc * 22130 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] ConnectAll:0  ]
+NOTICE: 09-28 20:58:07:  pbrpc * 22130 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultReadTimeout:10000  ]
+NOTICE: 09-28 20:58:07:  pbrpc * 22130 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultWriteTimeout:10000  ]
+NOTICE: 09-28 20:58:07:  pbrpc * 22130 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultLinger:0  ]
+NOTICE: 09-28 20:58:07:  pbrpc * 22130 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] ReqBuf:10000  ]
+NOTICE: 09-28 20:58:07:  pbrpc * 22130 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] ResBuf:10000  ]
+DEBUG: 09-28 20:58:07:  pbrpc * 22130 [  logid:  ][netreactor.cpp:406][time:0us]set ThreadNum 16
+DEBUG: 09-28 20:58:07:  pbrpc * 22130 [  logid:  ][ubtask.cpp:88][time:0us]start task reactor thread num[16]
+NOTICE: 09-28 20:58:07:  pbrpc * 22132 --------------------------------------------------------------- open log_r.1091230048 ------------
+DEBUG: 09-28 20:58:07:  pbrpc * 22132 [  logid:  ][ubutils.h:430][time:3us]find pos[4] at cap[16]
+NOTICE: 09-28 20:58:07:  pbrpc * 22133 --------------------------------------------------------------- open log_r.1112471904 ------------
+DEBUG: 09-28 20:58:07:  pbrpc * 22132 [  logid:  ][netreactor.cpp:450][time:55us]NetReactor Debug
+DEBUG: 09-28 20:58:07:  pbrpc * 22133 [  logid:  ][ubutils.h:430][time:3us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:07:  pbrpc * 22133 [  logid:  ][netreactor.cpp:450][time:28us]NetReactor Debug
+NOTICE: 09-28 20:58:07:  pbrpc * 22134 --------------------------------------------------------------- open log_r.1122961760 ------------
+DEBUG: 09-28 20:58:07:  pbrpc * 22134 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:07:  pbrpc * 22134 [  logid:  ][netreactor.cpp:450][time:46us]NetReactor Debug
+NOTICE: 09-28 20:58:07:  pbrpc * 22135 --------------------------------------------------------------- open log_r.1133451616 ------------
+DEBUG: 09-28 20:58:07:  pbrpc * 22135 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:07:  pbrpc * 22135 [  logid:  ][netreactor.cpp:450][time:85us]NetReactor Debug
+NOTICE: 09-28 20:58:07:  pbrpc * 22136 --------------------------------------------------------------- open log_r.1143941472 ------------
+DEBUG: 09-28 20:58:07:  pbrpc * 22136 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:07:  pbrpc * 22136 [  logid:  ][netreactor.cpp:450][time:53us]NetReactor Debug
+NOTICE: 09-28 20:58:07:  pbrpc * 22145 --------------------------------------------------------------- open log_r.1238350176 ------------
+DEBUG: 09-28 20:58:07:  pbrpc * 22145 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:07:  pbrpc * 22145 [  logid:  ][netreactor.cpp:450][time:23us]NetReactor Debug
+NOTICE: 09-28 20:58:07:  pbrpc * 22138 --------------------------------------------------------------- open log_r.1164921184 ------------
+DEBUG: 09-28 20:58:07:  pbrpc * 22138 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+NOTICE: 09-28 20:58:07:  pbrpc * 22139 --------------------------------------------------------------- open log_r.1175411040 ------------
+DEBUG: 09-28 20:58:07:  pbrpc * 22138 [  logid:  ][netreactor.cpp:450][time:37us]NetReactor Debug
+DEBUG: 09-28 20:58:07:  pbrpc * 22139 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:07:  pbrpc * 22139 [  logid:  ][netreactor.cpp:450][time:26us]NetReactor Debug
+NOTICE: 09-28 20:58:07:  pbrpc * 22140 --------------------------------------------------------------- open log_r.1185900896 ------------
+DEBUG: 09-28 20:58:07:  pbrpc * 22140 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:07:  pbrpc * 22140 [  logid:  ][netreactor.cpp:450][time:31us]NetReactor Debug
+NOTICE: 09-28 20:58:07:  pbrpc * 22141 --------------------------------------------------------------- open log_r.1196390752 ------------
+DEBUG: 09-28 20:58:07:  pbrpc * 22141 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:07:  pbrpc * 22141 [  logid:  ][netreactor.cpp:450][time:23us]NetReactor Debug
+NOTICE: 09-28 20:58:07:  pbrpc * 22142 --------------------------------------------------------------- open log_r.1206880608 ------------
+DEBUG: 09-28 20:58:07:  pbrpc * 22142 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:07:  pbrpc * 22142 [  logid:  ][netreactor.cpp:450][time:25us]NetReactor Debug
+NOTICE: 09-28 20:58:07:  pbrpc * 22143 --------------------------------------------------------------- open log_r.1217370464 ------------
+DEBUG: 09-28 20:58:07:  pbrpc * 22143 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+NOTICE: 09-28 20:58:07:  pbrpc * 22144 --------------------------------------------------------------- open log_r.1227860320 ------------
+DEBUG: 09-28 20:58:07:  pbrpc * 22143 [  logid:  ][netreactor.cpp:450][time:24us]NetReactor Debug
+DEBUG: 09-28 20:58:07:  pbrpc * 22144 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:07:  pbrpc * 22144 [  logid:  ][netreactor.cpp:450][time:27us]NetReactor Debug
+NOTICE: 09-28 20:58:07:  pbrpc * 22137 --------------------------------------------------------------- open log_r.1154431328 ------------
+DEBUG: 09-28 20:58:07:  pbrpc * 22137 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:07:  pbrpc * 22137 [  logid:  ][netreactor.cpp:450][time:29us]NetReactor Debug
+NOTICE: 09-28 20:58:07:  pbrpc * 22146 --------------------------------------------------------------- open log_r.1248840032 ------------
+DEBUG: 09-28 20:58:07:  pbrpc * 22146 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+NOTICE: 09-28 20:58:07:  pbrpc * 22147 --------------------------------------------------------------- open log_r.1259329888 ------------
+DEBUG: 09-28 20:58:07:  pbrpc * 22146 [  logid:  ][netreactor.cpp:450][time:33us]NetReactor Debug
+DEBUG: 09-28 20:58:07:  pbrpc * 22147 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:07:  pbrpc * 22147 [  logid:  ][netreactor.cpp:450][time:26us]NetReactor Debug
+TRACE: 09-28 20:58:07:  pbrpc * 22130 [ logid:0 ] [AsyncClient.cpp:96]free pbrpc connection in async (nil)
+NOTICE: 09-28 20:58:30:  pbrpc * 22960 --------------------------------------------------------------- open log ------------
+DEBUG: 09-28 20:58:30:  pbrpc * 22960 [  logid:  ][ubclient_connectmanager.cpp:547][time:0us]defaultCapacity : [1000]
+DEBUG: 09-28 20:58:30:  pbrpc * 22960 [  logid:  ][ubclient_connectserver.cpp:90][time:0us]server port : 7788
+DEBUG: 09-28 20:58:30:  pbrpc * 22960 [  logid:  ][ubclient_connectserver.cpp:98][time:0us][1] [1.0.0] [1]
+DEBUG: 09-28 20:58:30:  pbrpc * 22960 [  logid:  ][ubclient_connectserver.cpp:102][time:0us]server max conn : [1000]
+DEBUG: 09-28 20:58:30:  pbrpc * 22960 [  logid:  ][ubclient_connectserver.cpp:108][time:0us]waiting num : [80]
+DEBUG: 09-28 20:58:30:  pbrpc * 22960 [  logid:  ][ubclient_connectserver.cpp:219][time:0us]last ip : [127.0.0.1]
+DEBUG: 09-28 20:58:30:  pbrpc * 22960 [  logid:  ][ubclient_connectserver.cpp:302][time:0us]clone
+NOTICE: 09-28 20:58:30:  pbrpc * 22960 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultConnectType:LONG  ]
+NOTICE: 09-28 20:58:30:  pbrpc * 22960 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultRetry:5  ]
+NOTICE: 09-28 20:58:30:  pbrpc * 22960 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultFetchConnMaxTime:0  ]
+NOTICE: 09-28 20:58:30:  pbrpc * 22960 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] ConnectAll:0  ]
+NOTICE: 09-28 20:58:30:  pbrpc * 22960 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultReadTimeout:10000  ]
+NOTICE: 09-28 20:58:30:  pbrpc * 22960 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultWriteTimeout:10000  ]
+NOTICE: 09-28 20:58:30:  pbrpc * 22960 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultLinger:0  ]
+NOTICE: 09-28 20:58:30:  pbrpc * 22960 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] ReqBuf:10000  ]
+NOTICE: 09-28 20:58:30:  pbrpc * 22960 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] ResBuf:10000  ]
+DEBUG: 09-28 20:58:30:  pbrpc * 22960 [  logid:  ][netreactor.cpp:406][time:0us]set ThreadNum 16
+DEBUG: 09-28 20:58:30:  pbrpc * 22960 [  logid:  ][ubtask.cpp:88][time:0us]start task reactor thread num[16]
+NOTICE: 09-28 20:58:30:  pbrpc * 22962 --------------------------------------------------------------- open log_r.1090074976 ------------
+DEBUG: 09-28 20:58:30:  pbrpc * 22962 [  logid:  ][ubutils.h:430][time:3us]find pos[4] at cap[16]
+NOTICE: 09-28 20:58:30:  pbrpc * 22963 --------------------------------------------------------------- open log_r.1120659808 ------------
+DEBUG: 09-28 20:58:30:  pbrpc * 22962 [  logid:  ][netreactor.cpp:450][time:67us]NetReactor Debug
+DEBUG: 09-28 20:58:30:  pbrpc * 22963 [  logid:  ][ubutils.h:430][time:3us]find pos[4] at cap[16]
+NOTICE: 09-28 20:58:30:  pbrpc * 22964 --------------------------------------------------------------- open log_r.1131149664 ------------
+DEBUG: 09-28 20:58:30:  pbrpc * 22963 [  logid:  ][netreactor.cpp:450][time:71us]NetReactor Debug
+DEBUG: 09-28 20:58:30:  pbrpc * 22964 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:30:  pbrpc * 22964 [  logid:  ][netreactor.cpp:450][time:44us]NetReactor Debug
+NOTICE: 09-28 20:58:30:  pbrpc * 22965 --------------------------------------------------------------- open log_r.1141639520 ------------
+DEBUG: 09-28 20:58:30:  pbrpc * 22965 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:30:  pbrpc * 22965 [  logid:  ][netreactor.cpp:450][time:27us]NetReactor Debug
+NOTICE: 09-28 20:58:30:  pbrpc * 22972 --------------------------------------------------------------- open log_r.1215068512 ------------
+DEBUG: 09-28 20:58:30:  pbrpc * 22972 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:30:  pbrpc * 22972 [  logid:  ][netreactor.cpp:450][time:70us]NetReactor Debug
+NOTICE: 09-28 20:58:30:  pbrpc * 22967 --------------------------------------------------------------- open log_r.1162619232 ------------
+DEBUG: 09-28 20:58:30:  pbrpc * 22967 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:30:  pbrpc * 22967 [  logid:  ][netreactor.cpp:450][time:34us]NetReactor Debug
+NOTICE: 09-28 20:58:30:  pbrpc * 22968 --------------------------------------------------------------- open log_r.1173109088 ------------
+DEBUG: 09-28 20:58:30:  pbrpc * 22968 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:30:  pbrpc * 22968 [  logid:  ][netreactor.cpp:450][time:42us]NetReactor Debug
+NOTICE: 09-28 20:58:30:  pbrpc * 22969 --------------------------------------------------------------- open log_r.1183598944 ------------
+DEBUG: 09-28 20:58:30:  pbrpc * 22969 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:30:  pbrpc * 22969 [  logid:  ][netreactor.cpp:450][time:45us]NetReactor Debug
+NOTICE: 09-28 20:58:30:  pbrpc * 22970 --------------------------------------------------------------- open log_r.1194088800 ------------
+DEBUG: 09-28 20:58:30:  pbrpc * 22970 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:30:  pbrpc * 22970 [  logid:  ][netreactor.cpp:450][time:30us]NetReactor Debug
+NOTICE: 09-28 20:58:30:  pbrpc * 22971 --------------------------------------------------------------- open log_r.1204578656 ------------
+DEBUG: 09-28 20:58:30:  pbrpc * 22971 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+NOTICE: 09-28 20:58:30:  pbrpc * 22966 --------------------------------------------------------------- open log_r.1152129376 ------------
+DEBUG: 09-28 20:58:30:  pbrpc * 22971 [  logid:  ][netreactor.cpp:450][time:25us]NetReactor Debug
+DEBUG: 09-28 20:58:30:  pbrpc * 22966 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:30:  pbrpc * 22966 [  logid:  ][netreactor.cpp:450][time:29us]NetReactor Debug
+NOTICE: 09-28 20:58:30:  pbrpc * 22973 --------------------------------------------------------------- open log_r.1225558368 ------------
+DEBUG: 09-28 20:58:30:  pbrpc * 22973 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:30:  pbrpc * 22973 [  logid:  ][netreactor.cpp:450][time:19us]NetReactor Debug
+NOTICE: 09-28 20:58:30:  pbrpc * 22974 --------------------------------------------------------------- open log_r.1236048224 ------------
+DEBUG: 09-28 20:58:30:  pbrpc * 22974 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:30:  pbrpc * 22974 [  logid:  ][netreactor.cpp:450][time:44us]NetReactor Debug
+NOTICE: 09-28 20:58:30:  pbrpc * 22975 --------------------------------------------------------------- open log_r.1246538080 ------------
+DEBUG: 09-28 20:58:30:  pbrpc * 22975 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:30:  pbrpc * 22975 [  logid:  ][netreactor.cpp:450][time:36us]NetReactor Debug
+NOTICE: 09-28 20:58:30:  pbrpc * 22976 --------------------------------------------------------------- open log_r.1257027936 ------------
+DEBUG: 09-28 20:58:30:  pbrpc * 22976 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:30:  pbrpc * 22976 [  logid:  ][netreactor.cpp:450][time:28us]NetReactor Debug
+NOTICE: 09-28 20:58:30:  pbrpc * 22977 --------------------------------------------------------------- open log_r.1267517792 ------------
+DEBUG: 09-28 20:58:30:  pbrpc * 22977 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:30:  pbrpc * 22977 [  logid:  ][netreactor.cpp:450][time:22us]NetReactor Debug
+TRACE: 09-28 20:58:30:  pbrpc * 22960 [ logid:0 ] [AsyncClient.cpp:96]free pbrpc connection in async 0x2
+NOTICE: 09-28 20:58:43:  pbrpc * 23346 --------------------------------------------------------------- open log ------------
+DEBUG: 09-28 20:58:43:  pbrpc * 23346 [  logid:  ][ubclient_connectmanager.cpp:547][time:0us]defaultCapacity : [1000]
+DEBUG: 09-28 20:58:43:  pbrpc * 23346 [  logid:  ][ubclient_connectserver.cpp:90][time:0us]server port : 7788
+DEBUG: 09-28 20:58:43:  pbrpc * 23346 [  logid:  ][ubclient_connectserver.cpp:98][time:0us][1] [1.0.0] [1]
+DEBUG: 09-28 20:58:43:  pbrpc * 23346 [  logid:  ][ubclient_connectserver.cpp:102][time:0us]server max conn : [1000]
+DEBUG: 09-28 20:58:43:  pbrpc * 23346 [  logid:  ][ubclient_connectserver.cpp:108][time:0us]waiting num : [80]
+DEBUG: 09-28 20:58:43:  pbrpc * 23346 [  logid:  ][ubclient_connectserver.cpp:219][time:0us]last ip : [127.0.0.1]
+DEBUG: 09-28 20:58:43:  pbrpc * 23346 [  logid:  ][ubclient_connectserver.cpp:302][time:0us]clone
+NOTICE: 09-28 20:58:43:  pbrpc * 23346 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultConnectType:LONG  ]
+NOTICE: 09-28 20:58:43:  pbrpc * 23346 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultRetry:5  ]
+NOTICE: 09-28 20:58:43:  pbrpc * 23346 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultFetchConnMaxTime:0  ]
+NOTICE: 09-28 20:58:43:  pbrpc * 23346 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] ConnectAll:0  ]
+NOTICE: 09-28 20:58:43:  pbrpc * 23346 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultReadTimeout:10000  ]
+NOTICE: 09-28 20:58:43:  pbrpc * 23346 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultWriteTimeout:10000  ]
+NOTICE: 09-28 20:58:43:  pbrpc * 23346 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultLinger:0  ]
+NOTICE: 09-28 20:58:43:  pbrpc * 23346 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] ReqBuf:10000  ]
+NOTICE: 09-28 20:58:43:  pbrpc * 23346 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] ResBuf:10000  ]
+DEBUG: 09-28 20:58:43:  pbrpc * 23346 [  logid:  ][netreactor.cpp:406][time:0us]set ThreadNum 16
+DEBUG: 09-28 20:58:43:  pbrpc * 23346 [  logid:  ][ubtask.cpp:88][time:0us]start task reactor thread num[16]
+NOTICE: 09-28 20:58:43:  pbrpc * 23348 --------------------------------------------------------------- open log_r.1117620576 ------------
+DEBUG: 09-28 20:58:43:  pbrpc * 23348 [  logid:  ][ubutils.h:430][time:3us]find pos[4] at cap[16]
+NOTICE: 09-28 20:58:43:  pbrpc * 23349 --------------------------------------------------------------- open log_r.1089268064 ------------
+DEBUG: 09-28 20:58:43:  pbrpc * 23348 [  logid:  ][netreactor.cpp:450][time:58us]NetReactor Debug
+DEBUG: 09-28 20:58:43:  pbrpc * 23349 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:43:  pbrpc * 23349 [  logid:  ][netreactor.cpp:450][time:66us]NetReactor Debug
+NOTICE: 09-28 20:58:43:  pbrpc * 23353 --------------------------------------------------------------- open log_r.1159580000 ------------
+DEBUG: 09-28 20:58:43:  pbrpc * 23353 [  logid:  ][ubutils.h:430][time:3us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:43:  pbrpc * 23353 [  logid:  ][netreactor.cpp:450][time:37us]NetReactor Debug
+NOTICE: 09-28 20:58:43:  pbrpc * 23351 --------------------------------------------------------------- open log_r.1138600288 ------------
+DEBUG: 09-28 20:58:43:  pbrpc * 23351 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:43:  pbrpc * 23351 [  logid:  ][netreactor.cpp:450][time:49us]NetReactor Debug
+NOTICE: 09-28 20:58:43:  pbrpc * 23352 --------------------------------------------------------------- open log_r.1149090144 ------------
+DEBUG: 09-28 20:58:43:  pbrpc * 23352 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:43:  pbrpc * 23352 [  logid:  ][netreactor.cpp:450][time:49us]NetReactor Debug
+NOTICE: 09-28 20:58:43:  pbrpc * 23361 --------------------------------------------------------------- open log_r.1243498848 ------------
+DEBUG: 09-28 20:58:43:  pbrpc * 23361 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:43:  pbrpc * 23361 [  logid:  ][netreactor.cpp:450][time:28us]NetReactor Debug
+NOTICE: 09-28 20:58:43:  pbrpc * 23354 --------------------------------------------------------------- open log_r.1170069856 ------------
+DEBUG: 09-28 20:58:43:  pbrpc * 23354 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:43:  pbrpc * 23354 [  logid:  ][netreactor.cpp:450][time:27us]NetReactor Debug
+NOTICE: 09-28 20:58:43:  pbrpc * 23355 --------------------------------------------------------------- open log_r.1180559712 ------------
+DEBUG: 09-28 20:58:43:  pbrpc * 23355 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:43:  pbrpc * 23355 [  logid:  ][netreactor.cpp:450][time:44us]NetReactor Debug
+NOTICE: 09-28 20:58:43:  pbrpc * 23356 --------------------------------------------------------------- open log_r.1191049568 ------------
+DEBUG: 09-28 20:58:43:  pbrpc * 23356 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:43:  pbrpc * 23356 [  logid:  ][netreactor.cpp:450][time:24us]NetReactor Debug
+NOTICE: 09-28 20:58:43:  pbrpc * 23357 --------------------------------------------------------------- open log_r.1201539424 ------------
+DEBUG: 09-28 20:58:43:  pbrpc * 23357 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:43:  pbrpc * 23357 [  logid:  ][netreactor.cpp:450][time:28us]NetReactor Debug
+NOTICE: 09-28 20:58:43:  pbrpc * 23358 --------------------------------------------------------------- open log_r.1212029280 ------------
+DEBUG: 09-28 20:58:43:  pbrpc * 23358 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:43:  pbrpc * 23358 [  logid:  ][netreactor.cpp:450][time:25us]NetReactor Debug
+NOTICE: 09-28 20:58:43:  pbrpc * 23359 --------------------------------------------------------------- open log_r.1222519136 ------------
+DEBUG: 09-28 20:58:43:  pbrpc * 23359 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:43:  pbrpc * 23359 [  logid:  ][netreactor.cpp:450][time:24us]NetReactor Debug
+NOTICE: 09-28 20:58:43:  pbrpc * 23360 --------------------------------------------------------------- open log_r.1233008992 ------------
+DEBUG: 09-28 20:58:43:  pbrpc * 23360 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:43:  pbrpc * 23360 [  logid:  ][netreactor.cpp:450][time:25us]NetReactor Debug
+NOTICE: 09-28 20:58:43:  pbrpc * 23350 --------------------------------------------------------------- open log_r.1128110432 ------------
+DEBUG: 09-28 20:58:43:  pbrpc * 23350 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:43:  pbrpc * 23350 [  logid:  ][netreactor.cpp:450][time:31us]NetReactor Debug
+NOTICE: 09-28 20:58:43:  pbrpc * 23362 --------------------------------------------------------------- open log_r.1253988704 ------------
+DEBUG: 09-28 20:58:43:  pbrpc * 23362 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 20:58:43:  pbrpc * 23362 [  logid:  ][netreactor.cpp:450][time:15us]NetReactor Debug
+NOTICE: 09-28 20:58:43:  pbrpc * 23363 --------------------------------------------------------------- open log_r.1264478560 ------------
+NOTICE: 09-28 21:04:12:  pbrpc * 5373 --------------------------------------------------------------- open log ------------
+DEBUG: 09-28 21:04:12:  pbrpc * 5373 [  logid:  ][ubclient_connectmanager.cpp:547][time:0us]defaultCapacity : [1000]
+DEBUG: 09-28 21:04:12:  pbrpc * 5373 [  logid:  ][ubclient_connectserver.cpp:90][time:0us]server port : 7788
+DEBUG: 09-28 21:04:12:  pbrpc * 5373 [  logid:  ][ubclient_connectserver.cpp:98][time:0us][1] [1.0.0] [1]
+DEBUG: 09-28 21:04:12:  pbrpc * 5373 [  logid:  ][ubclient_connectserver.cpp:102][time:0us]server max conn : [1000]
+DEBUG: 09-28 21:04:12:  pbrpc * 5373 [  logid:  ][ubclient_connectserver.cpp:108][time:0us]waiting num : [80]
+DEBUG: 09-28 21:04:12:  pbrpc * 5373 [  logid:  ][ubclient_connectserver.cpp:219][time:0us]last ip : [127.0.0.1]
+DEBUG: 09-28 21:04:12:  pbrpc * 5373 [  logid:  ][ubclient_connectserver.cpp:302][time:0us]clone
+NOTICE: 09-28 21:04:12:  pbrpc * 5373 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultConnectType:LONG  ]
+NOTICE: 09-28 21:04:12:  pbrpc * 5373 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultRetry:5  ]
+NOTICE: 09-28 21:04:12:  pbrpc * 5373 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultFetchConnMaxTime:0  ]
+NOTICE: 09-28 21:04:12:  pbrpc * 5373 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] ConnectAll:0  ]
+NOTICE: 09-28 21:04:12:  pbrpc * 5373 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultReadTimeout:10000  ]
+NOTICE: 09-28 21:04:12:  pbrpc * 5373 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultWriteTimeout:10000  ]
+NOTICE: 09-28 21:04:12:  pbrpc * 5373 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultLinger:0  ]
+NOTICE: 09-28 21:04:12:  pbrpc * 5373 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] ReqBuf:10000  ]
+NOTICE: 09-28 21:04:12:  pbrpc * 5373 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] ResBuf:10000  ]
+DEBUG: 09-28 21:04:12:  pbrpc * 5373 [  logid:  ][netreactor.cpp:406][time:0us]set ThreadNum 16
+DEBUG: 09-28 21:04:12:  pbrpc * 5373 [  logid:  ][ubtask.cpp:88][time:0us]start task reactor thread num[16]
+NOTICE: 09-28 21:04:12:  pbrpc * 5375 --------------------------------------------------------------- open log_r.1111333216 ------------
+DEBUG: 09-28 21:04:12:  pbrpc * 5375 [  logid:  ][ubutils.h:430][time:3us]find pos[4] at cap[16]
+NOTICE: 09-28 21:04:12:  pbrpc * 5376 --------------------------------------------------------------- open log_r.1121823072 ------------
+DEBUG: 09-28 21:04:12:  pbrpc * 5375 [  logid:  ][netreactor.cpp:450][time:60us]NetReactor Debug
+DEBUG: 09-28 21:04:12:  pbrpc * 5376 [  logid:  ][ubutils.h:430][time:3us]find pos[4] at cap[16]
+NOTICE: 09-28 21:04:12:  pbrpc * 5377 --------------------------------------------------------------- open log_r.1132312928 ------------
+DEBUG: 09-28 21:04:12:  pbrpc * 5376 [  logid:  ][netreactor.cpp:450][time:55us]NetReactor Debug
+DEBUG: 09-28 21:04:12:  pbrpc * 5377 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+NOTICE: 09-28 21:04:12:  pbrpc * 5378 --------------------------------------------------------------- open log_r.1142802784 ------------
+DEBUG: 09-28 21:04:12:  pbrpc * 5377 [  logid:  ][netreactor.cpp:450][time:48us]NetReactor Debug
+DEBUG: 09-28 21:04:12:  pbrpc * 5378 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:12:  pbrpc * 5378 [  logid:  ][netreactor.cpp:450][time:38us]NetReactor Debug
+NOTICE: 09-28 21:04:12:  pbrpc * 5379 --------------------------------------------------------------- open log_r.1153292640 ------------
+DEBUG: 09-28 21:04:12:  pbrpc * 5379 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:12:  pbrpc * 5379 [  logid:  ][netreactor.cpp:450][time:46us]NetReactor Debug
+NOTICE: 09-28 21:04:12:  pbrpc * 5380 --------------------------------------------------------------- open log_r.1163782496 ------------
+DEBUG: 09-28 21:04:12:  pbrpc * 5380 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:12:  pbrpc * 5380 [  logid:  ][netreactor.cpp:450][time:33us]NetReactor Debug
+NOTICE: 09-28 21:04:12:  pbrpc * 5381 --------------------------------------------------------------- open log_r.1174272352 ------------
+DEBUG: 09-28 21:04:12:  pbrpc * 5381 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:12:  pbrpc * 5381 [  logid:  ][netreactor.cpp:450][time:25us]NetReactor Debug
+NOTICE: 09-28 21:04:12:  pbrpc * 5382 --------------------------------------------------------------- open log_r.1184762208 ------------
+DEBUG: 09-28 21:04:12:  pbrpc * 5382 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+NOTICE: 09-28 21:04:12:  pbrpc * 5383 --------------------------------------------------------------- open log_r.1195252064 ------------
+DEBUG: 09-28 21:04:12:  pbrpc * 5382 [  logid:  ][netreactor.cpp:450][time:36us]NetReactor Debug
+DEBUG: 09-28 21:04:12:  pbrpc * 5383 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:12:  pbrpc * 5383 [  logid:  ][netreactor.cpp:450][time:23us]NetReactor Debug
+NOTICE: 09-28 21:04:12:  pbrpc * 5384 --------------------------------------------------------------- open log_r.1205741920 ------------
+DEBUG: 09-28 21:04:12:  pbrpc * 5384 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+NOTICE: 09-28 21:04:12:  pbrpc * 5385 --------------------------------------------------------------- open log_r.1216231776 ------------
+DEBUG: 09-28 21:04:12:  pbrpc * 5384 [  logid:  ][netreactor.cpp:450][time:32us]NetReactor Debug
+DEBUG: 09-28 21:04:12:  pbrpc * 5385 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+NOTICE: 09-28 21:04:12:  pbrpc * 5386 --------------------------------------------------------------- open log_r.1226721632 ------------
+DEBUG: 09-28 21:04:12:  pbrpc * 5385 [  logid:  ][netreactor.cpp:450][time:37us]NetReactor Debug
+DEBUG: 09-28 21:04:12:  pbrpc * 5386 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+NOTICE: 09-28 21:04:12:  pbrpc * 5387 --------------------------------------------------------------- open log_r.1237211488 ------------
+DEBUG: 09-28 21:04:12:  pbrpc * 5386 [  logid:  ][netreactor.cpp:450][time:72us]NetReactor Debug
+DEBUG: 09-28 21:04:12:  pbrpc * 5387 [  logid:  ][ubutils.h:430][time:13us]find pos[4] at cap[16]
+NOTICE: 09-28 21:04:12:  pbrpc * 5388 --------------------------------------------------------------- open log_r.1247701344 ------------
+DEBUG: 09-28 21:04:12:  pbrpc * 5387 [  logid:  ][netreactor.cpp:450][time:34us]NetReactor Debug
+DEBUG: 09-28 21:04:12:  pbrpc * 5388 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:12:  pbrpc * 5388 [  logid:  ][netreactor.cpp:450][time:24us]NetReactor Debug
+NOTICE: 09-28 21:04:12:  pbrpc * 5389 --------------------------------------------------------------- open log_r.1258191200 ------------
+DEBUG: 09-28 21:04:12:  pbrpc * 5389 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+NOTICE: 09-28 21:04:12:  pbrpc * 5390 --------------------------------------------------------------- open log_r.1268681056 ------------
+DEBUG: 09-28 21:04:12:  pbrpc * 5389 [  logid:  ][netreactor.cpp:450][time:23us]NetReactor Debug
+DEBUG: 09-28 21:04:12:  pbrpc * 5390 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:12:  pbrpc * 5390 [  logid:  ][netreactor.cpp:450][time:23us]NetReactor Debug
+NOTICE: 09-28 21:04:20:  pbrpc * 5740 --------------------------------------------------------------- open log ------------
+DEBUG: 09-28 21:04:20:  pbrpc * 5740 [  logid:  ][ubclient_connectmanager.cpp:547][time:0us]defaultCapacity : [1000]
+DEBUG: 09-28 21:04:20:  pbrpc * 5740 [  logid:  ][ubclient_connectserver.cpp:90][time:0us]server port : 7788
+DEBUG: 09-28 21:04:20:  pbrpc * 5740 [  logid:  ][ubclient_connectserver.cpp:98][time:0us][1] [1.0.0] [1]
+DEBUG: 09-28 21:04:20:  pbrpc * 5740 [  logid:  ][ubclient_connectserver.cpp:102][time:0us]server max conn : [1000]
+DEBUG: 09-28 21:04:20:  pbrpc * 5740 [  logid:  ][ubclient_connectserver.cpp:108][time:0us]waiting num : [80]
+DEBUG: 09-28 21:04:20:  pbrpc * 5740 [  logid:  ][ubclient_connectserver.cpp:219][time:0us]last ip : [127.0.0.1]
+DEBUG: 09-28 21:04:20:  pbrpc * 5740 [  logid:  ][ubclient_connectserver.cpp:302][time:0us]clone
+NOTICE: 09-28 21:04:20:  pbrpc * 5740 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultConnectType:LONG  ]
+NOTICE: 09-28 21:04:20:  pbrpc * 5740 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultRetry:5  ]
+NOTICE: 09-28 21:04:20:  pbrpc * 5740 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultFetchConnMaxTime:0  ]
+NOTICE: 09-28 21:04:20:  pbrpc * 5740 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] ConnectAll:0  ]
+NOTICE: 09-28 21:04:20:  pbrpc * 5740 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultReadTimeout:10000  ]
+NOTICE: 09-28 21:04:20:  pbrpc * 5740 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultWriteTimeout:10000  ]
+NOTICE: 09-28 21:04:20:  pbrpc * 5740 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultLinger:0  ]
+NOTICE: 09-28 21:04:20:  pbrpc * 5740 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] ReqBuf:10000  ]
+NOTICE: 09-28 21:04:20:  pbrpc * 5740 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] ResBuf:10000  ]
+DEBUG: 09-28 21:04:20:  pbrpc * 5740 [  logid:  ][netreactor.cpp:406][time:0us]set ThreadNum 16
+DEBUG: 09-28 21:04:20:  pbrpc * 5740 [  logid:  ][ubtask.cpp:88][time:0us]start task reactor thread num[16]
+NOTICE: 09-28 21:04:20:  pbrpc * 5742 --------------------------------------------------------------- open log_r.1090845024 ------------
+DEBUG: 09-28 21:04:20:  pbrpc * 5742 [  logid:  ][ubutils.h:430][time:3us]find pos[4] at cap[16]
+NOTICE: 09-28 21:04:20:  pbrpc * 5743 --------------------------------------------------------------- open log_r.1102461280 ------------
+DEBUG: 09-28 21:04:20:  pbrpc * 5742 [  logid:  ][netreactor.cpp:450][time:59us]NetReactor Debug
+DEBUG: 09-28 21:04:20:  pbrpc * 5743 [  logid:  ][ubutils.h:430][time:3us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:20:  pbrpc * 5743 [  logid:  ][netreactor.cpp:450][time:30us]NetReactor Debug
+NOTICE: 09-28 21:04:20:  pbrpc * 5744 --------------------------------------------------------------- open log_r.1127782752 ------------
+DEBUG: 09-28 21:04:20:  pbrpc * 5744 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:20:  pbrpc * 5744 [  logid:  ][netreactor.cpp:450][time:70us]NetReactor Debug
+NOTICE: 09-28 21:04:20:  pbrpc * 5745 --------------------------------------------------------------- open log_r.1138272608 ------------
+DEBUG: 09-28 21:04:20:  pbrpc * 5745 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:20:  pbrpc * 5745 [  logid:  ][netreactor.cpp:450][time:59us]NetReactor Debug
+NOTICE: 09-28 21:04:20:  pbrpc * 5752 --------------------------------------------------------------- open log_r.1211701600 ------------
+DEBUG: 09-28 21:04:20:  pbrpc * 5752 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:20:  pbrpc * 5752 [  logid:  ][netreactor.cpp:450][time:38us]NetReactor Debug
+NOTICE: 09-28 21:04:20:  pbrpc * 5754 --------------------------------------------------------------- open log_r.1232681312 ------------
+DEBUG: 09-28 21:04:20:  pbrpc * 5754 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:20:  pbrpc * 5754 [  logid:  ][netreactor.cpp:450][time:30us]NetReactor Debug
+NOTICE: 09-28 21:04:20:  pbrpc * 5748 --------------------------------------------------------------- open log_r.1169742176 ------------
+DEBUG: 09-28 21:04:20:  pbrpc * 5748 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:20:  pbrpc * 5748 [  logid:  ][netreactor.cpp:450][time:37us]NetReactor Debug
+NOTICE: 09-28 21:04:20:  pbrpc * 5749 --------------------------------------------------------------- open log_r.1180232032 ------------
+DEBUG: 09-28 21:04:20:  pbrpc * 5749 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:20:  pbrpc * 5749 [  logid:  ][netreactor.cpp:450][time:34us]NetReactor Debug
+NOTICE: 09-28 21:04:20:  pbrpc * 5750 --------------------------------------------------------------- open log_r.1190721888 ------------
+DEBUG: 09-28 21:04:20:  pbrpc * 5750 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:20:  pbrpc * 5750 [  logid:  ][netreactor.cpp:450][time:21us]NetReactor Debug
+NOTICE: 09-28 21:04:20:  pbrpc * 5751 --------------------------------------------------------------- open log_r.1201211744 ------------
+DEBUG: 09-28 21:04:20:  pbrpc * 5751 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+NOTICE: 09-28 21:04:20:  pbrpc * 5746 --------------------------------------------------------------- open log_r.1148762464 ------------
+DEBUG: 09-28 21:04:20:  pbrpc * 5751 [  logid:  ][netreactor.cpp:450][time:25us]NetReactor Debug
+DEBUG: 09-28 21:04:20:  pbrpc * 5746 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:20:  pbrpc * 5746 [  logid:  ][netreactor.cpp:450][time:17us]NetReactor Debug
+NOTICE: 09-28 21:04:20:  pbrpc * 5753 --------------------------------------------------------------- open log_r.1222191456 ------------
+DEBUG: 09-28 21:04:20:  pbrpc * 5753 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:20:  pbrpc * 5753 [  logid:  ][netreactor.cpp:450][time:28us]NetReactor Debug
+NOTICE: 09-28 21:04:20:  pbrpc * 5747 --------------------------------------------------------------- open log_r.1159252320 ------------
+DEBUG: 09-28 21:04:20:  pbrpc * 5747 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+NOTICE: 09-28 21:04:20:  pbrpc * 5755 --------------------------------------------------------------- open log_r.1243171168 ------------
+DEBUG: 09-28 21:04:20:  pbrpc * 5747 [  logid:  ][netreactor.cpp:450][time:28us]NetReactor Debug
+DEBUG: 09-28 21:04:20:  pbrpc * 5755 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+NOTICE: 09-28 21:04:20:  pbrpc * 5756 --------------------------------------------------------------- open log_r.1253661024 ------------
+DEBUG: 09-28 21:04:20:  pbrpc * 5755 [  logid:  ][netreactor.cpp:450][time:47us]NetReactor Debug
+DEBUG: 09-28 21:04:20:  pbrpc * 5756 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:20:  pbrpc * 5756 [  logid:  ][netreactor.cpp:450][time:53us]NetReactor Debug
+NOTICE: 09-28 21:04:20:  pbrpc * 5757 --------------------------------------------------------------- open log_r.1264150880 ------------
+DEBUG: 09-28 21:04:20:  pbrpc * 5757 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:20:  pbrpc * 5757 [  logid:  ][netreactor.cpp:450][time:29us]NetReactor Debug
+TRACE: 09-28 21:04:20:  pbrpc * 5740 [ logid:0 ] [AsyncClient.cpp:96]free pbrpc connection in async (nil)
+NOTICE: 09-28 21:04:26:  pbrpc * 5968 --------------------------------------------------------------- open log ------------
+DEBUG: 09-28 21:04:26:  pbrpc * 5968 [  logid:  ][ubclient_connectmanager.cpp:547][time:0us]defaultCapacity : [1000]
+DEBUG: 09-28 21:04:26:  pbrpc * 5968 [  logid:  ][ubclient_connectserver.cpp:90][time:0us]server port : 7788
+DEBUG: 09-28 21:04:26:  pbrpc * 5968 [  logid:  ][ubclient_connectserver.cpp:98][time:0us][1] [1.0.0] [1]
+DEBUG: 09-28 21:04:26:  pbrpc * 5968 [  logid:  ][ubclient_connectserver.cpp:102][time:0us]server max conn : [1000]
+DEBUG: 09-28 21:04:26:  pbrpc * 5968 [  logid:  ][ubclient_connectserver.cpp:108][time:0us]waiting num : [80]
+DEBUG: 09-28 21:04:26:  pbrpc * 5968 [  logid:  ][ubclient_connectserver.cpp:219][time:0us]last ip : [127.0.0.1]
+DEBUG: 09-28 21:04:26:  pbrpc * 5968 [  logid:  ][ubclient_connectserver.cpp:302][time:0us]clone
+NOTICE: 09-28 21:04:26:  pbrpc * 5968 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultConnectType:LONG  ]
+NOTICE: 09-28 21:04:26:  pbrpc * 5968 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultRetry:5  ]
+NOTICE: 09-28 21:04:26:  pbrpc * 5968 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultFetchConnMaxTime:0  ]
+NOTICE: 09-28 21:04:26:  pbrpc * 5968 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] ConnectAll:0  ]
+NOTICE: 09-28 21:04:26:  pbrpc * 5968 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultReadTimeout:10000  ]
+NOTICE: 09-28 21:04:26:  pbrpc * 5968 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultWriteTimeout:10000  ]
+NOTICE: 09-28 21:04:26:  pbrpc * 5968 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] DefaultLinger:0  ]
+NOTICE: 09-28 21:04:26:  pbrpc * 5968 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] ReqBuf:10000  ]
+NOTICE: 09-28 21:04:26:  pbrpc * 5968 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[service1] ResBuf:10000  ]
+DEBUG: 09-28 21:04:26:  pbrpc * 5968 [  logid:  ][netreactor.cpp:406][time:0us]set ThreadNum 16
+DEBUG: 09-28 21:04:26:  pbrpc * 5968 [  logid:  ][ubtask.cpp:88][time:0us]start task reactor thread num[16]
+NOTICE: 09-28 21:04:26:  pbrpc * 5970 --------------------------------------------------------------- open log_r.1116465504 ------------
+DEBUG: 09-28 21:04:26:  pbrpc * 5970 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+NOTICE: 09-28 21:04:26:  pbrpc * 5971 --------------------------------------------------------------- open log_r.1126955360 ------------
+DEBUG: 09-28 21:04:26:  pbrpc * 5970 [  logid:  ][netreactor.cpp:450][time:72us]NetReactor Debug
+DEBUG: 09-28 21:04:26:  pbrpc * 5971 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+NOTICE: 09-28 21:04:26:  pbrpc * 5972 --------------------------------------------------------------- open log_r.1137445216 ------------
+DEBUG: 09-28 21:04:26:  pbrpc * 5971 [  logid:  ][netreactor.cpp:450][time:50us]NetReactor Debug
+DEBUG: 09-28 21:04:26:  pbrpc * 5972 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:26:  pbrpc * 5972 [  logid:  ][netreactor.cpp:450][time:57us]NetReactor Debug
+NOTICE: 09-28 21:04:26:  pbrpc * 5978 --------------------------------------------------------------- open log_r.1200384352 ------------
+DEBUG: 09-28 21:04:26:  pbrpc * 5978 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:26:  pbrpc * 5978 [  logid:  ][netreactor.cpp:450][time:26us]NetReactor Debug
+NOTICE: 09-28 21:04:26:  pbrpc * 5974 --------------------------------------------------------------- open log_r.1158424928 ------------
+DEBUG: 09-28 21:04:26:  pbrpc * 5974 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:26:  pbrpc * 5974 [  logid:  ][netreactor.cpp:450][time:40us]NetReactor Debug
+NOTICE: 09-28 21:04:26:  pbrpc * 5982 --------------------------------------------------------------- open log_r.1231853920 ------------
+DEBUG: 09-28 21:04:26:  pbrpc * 5982 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+NOTICE: 09-28 21:04:26:  pbrpc * 5976 --------------------------------------------------------------- open log_r.1179404640 ------------
+DEBUG: 09-28 21:04:26:  pbrpc * 5982 [  logid:  ][netreactor.cpp:450][time:43us]NetReactor Debug
+DEBUG: 09-28 21:04:26:  pbrpc * 5976 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+NOTICE: 09-28 21:04:26:  pbrpc * 5977 --------------------------------------------------------------- open log_r.1189894496 ------------
+DEBUG: 09-28 21:04:26:  pbrpc * 5976 [  logid:  ][netreactor.cpp:450][time:41us]NetReactor Debug
+DEBUG: 09-28 21:04:26:  pbrpc * 5977 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:26:  pbrpc * 5977 [  logid:  ][netreactor.cpp:450][time:32us]NetReactor Debug
+NOTICE: 09-28 21:04:26:  pbrpc * 5973 --------------------------------------------------------------- open log_r.1147935072 ------------
+DEBUG: 09-28 21:04:26:  pbrpc * 5973 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+NOTICE: 09-28 21:04:26:  pbrpc * 5979 --------------------------------------------------------------- open log_r.1084385632 ------------
+DEBUG: 09-28 21:04:26:  pbrpc * 5973 [  logid:  ][netreactor.cpp:450][time:55us]NetReactor Debug
+DEBUG: 09-28 21:04:26:  pbrpc * 5979 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:26:  pbrpc * 5979 [  logid:  ][netreactor.cpp:450][time:30us]NetReactor Debug
+NOTICE: 09-28 21:04:26:  pbrpc * 5980 --------------------------------------------------------------- open log_r.1210874208 ------------
+DEBUG: 09-28 21:04:26:  pbrpc * 5980 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+NOTICE: 09-28 21:04:26:  pbrpc * 5981 --------------------------------------------------------------- open log_r.1221364064 ------------
+DEBUG: 09-28 21:04:26:  pbrpc * 5980 [  logid:  ][netreactor.cpp:450][time:27us]NetReactor Debug
+DEBUG: 09-28 21:04:26:  pbrpc * 5981 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:26:  pbrpc * 5981 [  logid:  ][netreactor.cpp:450][time:33us]NetReactor Debug
+NOTICE: 09-28 21:04:26:  pbrpc * 5975 --------------------------------------------------------------- open log_r.1168914784 ------------
+DEBUG: 09-28 21:04:26:  pbrpc * 5975 [  logid:  ][ubutils.h:430][time:2us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:26:  pbrpc * 5975 [  logid:  ][netreactor.cpp:450][time:22us]NetReactor Debug
+NOTICE: 09-28 21:04:26:  pbrpc * 5983 --------------------------------------------------------------- open log_r.1242343776 ------------
+DEBUG: 09-28 21:04:26:  pbrpc * 5983 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:26:  pbrpc * 5983 [  logid:  ][netreactor.cpp:450][time:28us]NetReactor Debug
+NOTICE: 09-28 21:04:26:  pbrpc * 5984 --------------------------------------------------------------- open log_r.1252833632 ------------
+DEBUG: 09-28 21:04:26:  pbrpc * 5984 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:26:  pbrpc * 5984 [  logid:  ][netreactor.cpp:450][time:29us]NetReactor Debug
+NOTICE: 09-28 21:04:26:  pbrpc * 5985 --------------------------------------------------------------- open log_r.1263323488 ------------
+DEBUG: 09-28 21:04:26:  pbrpc * 5985 [  logid:  ][ubutils.h:430][time:1us]find pos[4] at cap[16]
+DEBUG: 09-28 21:04:26:  pbrpc * 5985 [  logid:  ][netreactor.cpp:450][time:28us]NetReactor Debug
+TRACE: 09-28 21:04:26:  pbrpc * 5968 [ logid:0 ] [AsyncClient.cpp:96]free pbrpc connection in async (nil)
+NOTICE: 09-28 21:15:32:  pbrpc * 3331 --------------------------------------------------------------- open log ------------
+DEBUG: 09-28 21:15:32:  pbrpc * 3331 [  logid:  ][ubclient_connectmanager.cpp:547][time:0us]defaultCapacity : [100]
+DEBUG: 09-28 21:15:32:  pbrpc * 3331 [  logid:  ][ubclient_connectserver.cpp:90][time:0us]server port : 7788
+DEBUG: 09-28 21:15:32:  pbrpc * 3331 [  logid:  ][ubclient_connectserver.cpp:98][time:0us][0-100] [1] [1]
+DEBUG: 09-28 21:15:32:  pbrpc * 3331 [  logid:  ][ubclient_connectserver.cpp:102][time:0us]server max conn : [100]
+DEBUG: 09-28 21:15:32:  pbrpc * 3331 [  logid:  ][ubclient_connectserver.cpp:108][time:0us]waiting num : [50]
+DEBUG: 09-28 21:15:32:  pbrpc * 3331 [  logid:  ][ubclient_connectserver.cpp:219][time:0us]last ip : [127.0.0.1]
+DEBUG: 09-28 21:15:32:  pbrpc * 3331 [  logid:  ][ubclient_connectserver.cpp:302][time:0us]clone
+NOTICE: 09-28 21:15:32:  pbrpc * 3331 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultConnectType:LONG  ]
+NOTICE: 09-28 21:15:32:  pbrpc * 3331 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultRetry:5  ]
+NOTICE: 09-28 21:15:32:  pbrpc * 3331 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultFetchConnMaxTime:0  ]
+NOTICE: 09-28 21:15:32:  pbrpc * 3331 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ConnectAll:0  ]
+NOTICE: 09-28 21:15:32:  pbrpc * 3331 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultReadTimeout:1000  ]
+NOTICE: 09-28 21:15:32:  pbrpc * 3331 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultWriteTimeout:1000  ]
+NOTICE: 09-28 21:15:32:  pbrpc * 3331 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultLinger:0  ]
+NOTICE: 09-28 21:15:32:  pbrpc * 3331 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ReqBuf:10000  ]
+NOTICE: 09-28 21:15:32:  pbrpc * 3331 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ResBuf:10000  ]
+DEBUG: 09-28 21:15:32:  pbrpc * 3331 [  logid:  ][netreactor.cpp:406][time:0us]set ThreadNum 4
+DEBUG: 09-28 21:15:32:  pbrpc * 3331 [  logid:  ][ubtask.cpp:88][time:0us]start task reactor thread num[4]
+NOTICE: 09-28 21:15:32:  pbrpc * 3333 --------------------------------------------------------------- open log_r.1106323808 ------------
+DEBUG: 09-28 21:15:32:  pbrpc * 3333 [  logid:  ][ubutils.h:430][time:3us]find pos[2] at cap[4]
+NOTICE: 09-28 21:15:32:  pbrpc * 3334 --------------------------------------------------------------- open log_r.1116813664 ------------
+DEBUG: 09-28 21:15:32:  pbrpc * 3333 [  logid:  ][netreactor.cpp:450][time:49us]NetReactor Debug
+DEBUG: 09-28 21:15:32:  pbrpc * 3334 [  logid:  ][ubutils.h:430][time:3us]find pos[2] at cap[4]
+NOTICE: 09-28 21:15:32:  pbrpc * 3335 --------------------------------------------------------------- open log_r.1127303520 ------------
+DEBUG: 09-28 21:15:32:  pbrpc * 3334 [  logid:  ][netreactor.cpp:450][time:50us]NetReactor Debug
+DEBUG: 09-28 21:15:32:  pbrpc * 3335 [  logid:  ][ubutils.h:430][time:2us]find pos[2] at cap[4]
+NOTICE: 09-28 21:15:32:  pbrpc * 3336 --------------------------------------------------------------- open log_r.1137793376 ------------
+DEBUG: 09-28 21:15:32:  pbrpc * 3335 [  logid:  ][netreactor.cpp:450][time:29us]NetReactor Debug
+DEBUG: 09-28 21:15:32:  pbrpc * 3336 [  logid:  ][ubutils.h:430][time:2us]find pos[2] at cap[4]
+DEBUG: 09-28 21:15:32:  pbrpc * 3336 [  logid:  ][netreactor.cpp:450][time:22us]NetReactor Debug
+DEBUG: 09-28 21:15:32:  pbrpc * 3331 [  logid:  ][UbSockEvent.cpp:183][time:0us]ub_event malloc memory(p:0x7f413c267ae0, size:10036)
+DEBUG: 09-28 21:15:32:  pbrpc * 3333 [  logid:  ][netreactor.cpp:311][time:2209us]events 4, hd:17
+DEBUG: 09-28 21:15:32:  pbrpc * 3333 [NsheadEvent.cpp:371][logid:0, event:0x7f413c24c640, fd:17, status:0x0(UNKNOWN_STATUS), maxsize:0, srdbuf:0x7f413c24c74c,rdbuf:0x7f413c24c74c,rdlen:256,rdused:0, swtbuf:0x7f413c24c84c,wtbuf:0x7f413c267ae0,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411910132, 664401]
+DEBUG: 09-28 21:15:32:  pbrpc * 3333 [  logid:  ][netreactor.cpp:153][time:100us]checking ev[139918158644800] status[1]
+DEBUG: 09-28 21:15:32:  pbrpc * 3333 [  logid:  ][netreactor.cpp:311][time:9us]events 4, hd:17
+DEBUG: 09-28 21:15:32:  pbrpc * 3333 [NsheadEvent.cpp:323][logid:0, event:0x7f413c24c640, fd:17, status:0x0(UNKNOWN_STATUS), maxsize:0, srdbuf:0x7f413c24c74c,rdbuf:0x7f413c24c74c,rdlen:256,rdused:0, swtbuf:0x7f413c24c84c,wtbuf:0x7f413c267ae0,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411910132, 664523]
+DEBUG: 09-28 21:15:32:  pbrpc * 3333 [NsheadEvent.cpp:301][logid:0, event:0x7f413c24c640, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0x7f413c24c74c,rdbuf:0x7f413c24c74c,rdlen:256,rdused:0, swtbuf:0x7f413c24c84c,wtbuf:0x7f413c267ae0,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0]NsheadEvent(nshead_aread) begin [handle:17]
+DEBUG: 09-28 21:15:32:  pbrpc * 3333 [NsheadEvent.cpp:308][logid:0, event:0x7f413c24c640, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0x7f413c24c74c,rdbuf:0x7f413c24c74c,rdlen:256,rdused:36, swtbuf:0x7f413c24c84c,wtbuf:0x7f413c267ae0,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411910132, 664553]
+DEBUG: 09-28 21:15:32:  pbrpc * 3333 [NsheadEvent.cpp:346][logid:0, event:0x7f413c24c640, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0x7f413c24c74c,rdbuf:0x7f413c24c74c,rdlen:256,rdused:36, swtbuf:0x7f413c24c84c,wtbuf:0x7f413c267ae0,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411910132, 664564]
+DEBUG: 09-28 21:15:32:  pbrpc * 3333 [  logid:  ][netreactor.cpp:132][time:107us]not checking  99
+DEBUG: 09-28 21:15:32:  pbrpc * 3333 [  logid:  ][netreactor.cpp:311][time:17202us]events 1, hd:17
+DEBUG: 09-28 21:15:32:  pbrpc * 3333 [  logid:  ][netreactor.cpp:132][time:32us]not checking  82
+DEBUG: 09-28 21:15:32:  pbrpc * 3333 [  logid:  ][netreactor.cpp:311][time:8us]events 1, hd:17
+DEBUG: 09-28 21:15:32:  pbrpc * 3333 [NsheadEvent.cpp:132][logid:0, event:0x7f413c24c640, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0x7f413c24c74c,rdbuf:0x7f413c24c74c,rdlen:256,rdused:209, swtbuf:0x7f413c24c84c,wtbuf:0x7f413c267ae0,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411910132, 681825]
+DEBUG: 09-28 21:15:32:  pbrpc * 3333 [NsheadEvent.cpp:160][logid:0, event:0x7f413c24c640, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0x7f413c24c74c,rdbuf:0x7f413c24c74c,rdlen:256,rdused:209, swtbuf:0x7f413c24c84c,wtbuf:0x7f413c267ae0,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:17+proc:0+write:0]nshead_aserver_aread_callback2 : done
+TRACE: 09-28 21:15:32:  pbrpc * 3333 [ logid:1 ] [AsyncClient.cpp:96]free pbrpc connection in async (nil)
+DEBUG: 09-28 21:15:32:  pbrpc * 3333 [  logid:  ][netreactor.cpp:132][time:312us]not checking  82
+NOTICE: 09-28 21:23:41:  pbrpc * 23287 --------------------------------------------------------------- open log ------------
+DEBUG: 09-28 21:23:41:  pbrpc * 23287 [  logid:  ][ubclient_connectmanager.cpp:547][time:0us]defaultCapacity : [100]
+DEBUG: 09-28 21:23:41:  pbrpc * 23287 [  logid:  ][ubclient_connectserver.cpp:90][time:0us]server port : 7788
+DEBUG: 09-28 21:23:41:  pbrpc * 23287 [  logid:  ][ubclient_connectserver.cpp:98][time:0us][0-100] [1] [1]
+DEBUG: 09-28 21:23:41:  pbrpc * 23287 [  logid:  ][ubclient_connectserver.cpp:102][time:0us]server max conn : [100]
+DEBUG: 09-28 21:23:41:  pbrpc * 23287 [  logid:  ][ubclient_connectserver.cpp:108][time:0us]waiting num : [50]
+DEBUG: 09-28 21:23:41:  pbrpc * 23287 [  logid:  ][ubclient_connectserver.cpp:219][time:0us]last ip : [127.0.0.1]
+DEBUG: 09-28 21:23:41:  pbrpc * 23287 [  logid:  ][ubclient_connectserver.cpp:302][time:0us]clone
+NOTICE: 09-28 21:23:41:  pbrpc * 23287 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserServiceXXX] DefaultConnectType:LONG  ]
+NOTICE: 09-28 21:23:41:  pbrpc * 23287 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserServiceXXX] DefaultRetry:5  ]
+NOTICE: 09-28 21:23:41:  pbrpc * 23287 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserServiceXXX] DefaultFetchConnMaxTime:0  ]
+NOTICE: 09-28 21:23:41:  pbrpc * 23287 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserServiceXXX] ConnectAll:0  ]
+NOTICE: 09-28 21:23:41:  pbrpc * 23287 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserServiceXXX] DefaultReadTimeout:1000  ]
+NOTICE: 09-28 21:23:41:  pbrpc * 23287 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserServiceXXX] DefaultWriteTimeout:1000  ]
+NOTICE: 09-28 21:23:41:  pbrpc * 23287 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserServiceXXX] DefaultLinger:0  ]
+NOTICE: 09-28 21:23:41:  pbrpc * 23287 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserServiceXXX] ReqBuf:10000  ]
+NOTICE: 09-28 21:23:41:  pbrpc * 23287 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserServiceXXX] ResBuf:10000  ]
+DEBUG: 09-28 21:23:41:  pbrpc * 23287 [  logid:  ][netreactor.cpp:406][time:0us]set ThreadNum 4
+DEBUG: 09-28 21:23:41:  pbrpc * 23287 [  logid:  ][ubtask.cpp:88][time:0us]start task reactor thread num[4]
+NOTICE: 09-28 21:23:41:  pbrpc * 23289 --------------------------------------------------------------- open log_r.1101621600 ------------
+DEBUG: 09-28 21:23:41:  pbrpc * 23289 [  logid:  ][ubutils.h:430][time:2us]find pos[2] at cap[4]
+DEBUG: 09-28 21:23:41:  pbrpc * 23289 [  logid:  ][netreactor.cpp:450][time:46us]NetReactor Debug
+NOTICE: 09-28 21:23:41:  pbrpc * 23291 --------------------------------------------------------------- open log_r.1122601312 ------------
+DEBUG: 09-28 21:23:41:  pbrpc * 23291 [  logid:  ][ubutils.h:430][time:3us]find pos[2] at cap[4]
+NOTICE: 09-28 21:23:41:  pbrpc * 23290 --------------------------------------------------------------- open log_r.1112111456 ------------
+DEBUG: 09-28 21:23:41:  pbrpc * 23291 [  logid:  ][netreactor.cpp:450][time:33us]NetReactor Debug
+DEBUG: 09-28 21:23:41:  pbrpc * 23290 [  logid:  ][ubutils.h:430][time:1us]find pos[2] at cap[4]
+NOTICE: 09-28 21:23:41:  pbrpc * 23292 --------------------------------------------------------------- open log_r.1133091168 ------------
+DEBUG: 09-28 21:23:41:  pbrpc * 23290 [  logid:  ][netreactor.cpp:450][time:60us]NetReactor Debug
+DEBUG: 09-28 21:23:41:  pbrpc * 23292 [  logid:  ][ubutils.h:430][time:1us]find pos[2] at cap[4]
+DEBUG: 09-28 21:23:41:  pbrpc * 23292 [  logid:  ][netreactor.cpp:450][time:32us]NetReactor Debug
+TRACE: 09-28 21:23:41:  pbrpc * 23287 [ logid:1 ] [AsyncClient.cpp:96]free pbrpc connection in async (nil)
+NOTICE: 09-28 21:24:11:  pbrpc * 25715 --------------------------------------------------------------- open log ------------
+NOTICE: 09-28 21:24:34:  pbrpc * 27001 --------------------------------------------------------------- open log ------------
+NOTICE: 09-28 21:24:45:  pbrpc * 28408 --------------------------------------------------------------- open log ------------
+DEBUG: 09-28 21:24:45:  pbrpc * 28408 [  logid:  ][ubclient_connectmanager.cpp:547][time:0us]defaultCapacity : [100]
+DEBUG: 09-28 21:24:45:  pbrpc * 28408 [  logid:  ][ubclient_connectserver.cpp:90][time:0us]server port : 7788
+DEBUG: 09-28 21:24:45:  pbrpc * 28408 [  logid:  ][ubclient_connectserver.cpp:98][time:0us][0-100] [1] [1]
+DEBUG: 09-28 21:24:45:  pbrpc * 28408 [  logid:  ][ubclient_connectserver.cpp:102][time:0us]server max conn : [100]
+DEBUG: 09-28 21:24:45:  pbrpc * 28408 [  logid:  ][ubclient_connectserver.cpp:108][time:0us]waiting num : [50]
+DEBUG: 09-28 21:24:45:  pbrpc * 28408 [  logid:  ][ubclient_connectserver.cpp:219][time:0us]last ip : [127.0.0.1]
+DEBUG: 09-28 21:24:45:  pbrpc * 28408 [  logid:  ][ubclient_connectserver.cpp:302][time:0us]clone
+NOTICE: 09-28 21:24:45:  pbrpc * 28408 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultConnectType:LONG  ]
+NOTICE: 09-28 21:24:45:  pbrpc * 28408 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultRetry:5  ]
+NOTICE: 09-28 21:24:45:  pbrpc * 28408 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultFetchConnMaxTime:0  ]
+NOTICE: 09-28 21:24:45:  pbrpc * 28408 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ConnectAll:0  ]
+NOTICE: 09-28 21:24:45:  pbrpc * 28408 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultReadTimeout:1000  ]
+NOTICE: 09-28 21:24:45:  pbrpc * 28408 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultWriteTimeout:1000  ]
+NOTICE: 09-28 21:24:45:  pbrpc * 28408 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultLinger:0  ]
+NOTICE: 09-28 21:24:45:  pbrpc * 28408 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ReqBuf:10000  ]
+NOTICE: 09-28 21:24:45:  pbrpc * 28408 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ResBuf:10000  ]
+DEBUG: 09-28 21:24:45:  pbrpc * 28408 [  logid:  ][netreactor.cpp:406][time:0us]set ThreadNum 4
+DEBUG: 09-28 21:24:45:  pbrpc * 28408 [  logid:  ][ubtask.cpp:88][time:0us]start task reactor thread num[4]
+NOTICE: 09-28 21:24:45:  pbrpc * 28410 --------------------------------------------------------------- open log_r.1096431968 ------------
+DEBUG: 09-28 21:24:45:  pbrpc * 28410 [  logid:  ][ubutils.h:430][time:2us]find pos[2] at cap[4]
+NOTICE: 09-28 21:24:45:  pbrpc * 28411 --------------------------------------------------------------- open log_r.1106921824 ------------
+DEBUG: 09-28 21:24:45:  pbrpc * 28410 [  logid:  ][netreactor.cpp:450][time:51us]NetReactor Debug
+DEBUG: 09-28 21:24:45:  pbrpc * 28411 [  logid:  ][ubutils.h:430][time:2us]find pos[2] at cap[4]
+DEBUG: 09-28 21:24:45:  pbrpc * 28411 [  logid:  ][netreactor.cpp:450][time:31us]NetReactor Debug
+NOTICE: 09-28 21:24:45:  pbrpc * 28412 --------------------------------------------------------------- open log_r.1117411680 ------------
+DEBUG: 09-28 21:24:45:  pbrpc * 28412 [  logid:  ][ubutils.h:430][time:1us]find pos[2] at cap[4]
+NOTICE: 09-28 21:24:45:  pbrpc * 28413 --------------------------------------------------------------- open log_r.1127901536 ------------
+DEBUG: 09-28 21:24:45:  pbrpc * 28412 [  logid:  ][netreactor.cpp:450][time:52us]NetReactor Debug
+DEBUG: 09-28 21:24:45:  pbrpc * 28413 [  logid:  ][ubutils.h:430][time:2us]find pos[2] at cap[4]
+DEBUG: 09-28 21:24:45:  pbrpc * 28413 [  logid:  ][netreactor.cpp:450][time:27us]NetReactor Debug
+DEBUG: 09-28 21:24:45:  pbrpc * 28408 [  logid:  ][UbSockEvent.cpp:183][time:0us]ub_event malloc memory(p:0xed0cc0, size:10036)
+DEBUG: 09-28 21:24:45:  pbrpc * 28412 [  logid:  ][netreactor.cpp:311][time:1908us]events 4, hd:17
+DEBUG: 09-28 21:24:45:  pbrpc * 28412 [NsheadEvent.cpp:371][logid:0, event:0xe28700, fd:17, status:0x0(UNKNOWN_STATUS), maxsize:0, srdbuf:0xe2880c,rdbuf:0xe2880c,rdlen:256,rdused:0, swtbuf:0xe2890c,wtbuf:0xed0cc0,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411910685, 722577]
+DEBUG: 09-28 21:24:45:  pbrpc * 28412 [  logid:  ][netreactor.cpp:153][time:84us]checking ev[14845696] status[1]
+DEBUG: 09-28 21:24:45:  pbrpc * 28412 [  logid:  ][netreactor.cpp:311][time:9us]events 4, hd:17
+DEBUG: 09-28 21:24:45:  pbrpc * 28412 [NsheadEvent.cpp:323][logid:0, event:0xe28700, fd:17, status:0x0(UNKNOWN_STATUS), maxsize:0, srdbuf:0xe2880c,rdbuf:0xe2880c,rdlen:256,rdused:0, swtbuf:0xe2890c,wtbuf:0xed0cc0,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411910685, 722681]
+DEBUG: 09-28 21:24:45:  pbrpc * 28412 [NsheadEvent.cpp:301][logid:0, event:0xe28700, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0xe2880c,rdbuf:0xe2880c,rdlen:256,rdused:0, swtbuf:0xe2890c,wtbuf:0xed0cc0,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0]NsheadEvent(nshead_aread) begin [handle:17]
+DEBUG: 09-28 21:24:45:  pbrpc * 28412 [NsheadEvent.cpp:308][logid:0, event:0xe28700, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0xe2880c,rdbuf:0xe2880c,rdlen:256,rdused:36, swtbuf:0xe2890c,wtbuf:0xed0cc0,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411910685, 722709]
+DEBUG: 09-28 21:24:45:  pbrpc * 28412 [NsheadEvent.cpp:346][logid:0, event:0xe28700, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0xe2880c,rdbuf:0xe2880c,rdlen:256,rdused:36, swtbuf:0xe2890c,wtbuf:0xed0cc0,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411910685, 722721]
+DEBUG: 09-28 21:24:45:  pbrpc * 28412 [  logid:  ][netreactor.cpp:132][time:93us]not checking  99
+DEBUG: 09-28 21:24:45:  pbrpc * 28412 [  logid:  ][netreactor.cpp:311][time:4524us]events 1, hd:17
+DEBUG: 09-28 21:24:45:  pbrpc * 28412 [  logid:  ][netreactor.cpp:132][time:32us]not checking  95
+DEBUG: 09-28 21:24:45:  pbrpc * 28412 [  logid:  ][netreactor.cpp:311][time:7us]events 1, hd:17
+DEBUG: 09-28 21:24:45:  pbrpc * 28412 [NsheadEvent.cpp:132][logid:0, event:0xe28700, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0xe2880c,rdbuf:0xe2880c,rdlen:256,rdused:209, swtbuf:0xe2890c,wtbuf:0xed0cc0,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411910685, 727303]
+DEBUG: 09-28 21:24:45:  pbrpc * 28412 [NsheadEvent.cpp:160][logid:0, event:0xe28700, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0xe2880c,rdbuf:0xe2880c,rdlen:256,rdused:209, swtbuf:0xe2890c,wtbuf:0xed0cc0,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:4+proc:0+write:0]nshead_aserver_aread_callback2 : done
+TRACE: 09-28 21:24:45:  pbrpc * 28412 [ logid:1 ] [AsyncClient.cpp:96]free pbrpc connection in async 0xdff900
+DEBUG: 09-28 21:24:45:  pbrpc * 28412 [  logid:  ][netreactor.cpp:132][time:290us]not checking  95
+NOTICE: 09-28 21:24:48:  pbrpc * 28444 --------------------------------------------------------------- open log ------------
+DEBUG: 09-28 21:24:48:  pbrpc * 28444 [  logid:  ][ubclient_connectmanager.cpp:547][time:0us]defaultCapacity : [100]
+DEBUG: 09-28 21:24:48:  pbrpc * 28444 [  logid:  ][ubclient_connectserver.cpp:90][time:0us]server port : 7788
+DEBUG: 09-28 21:24:48:  pbrpc * 28444 [  logid:  ][ubclient_connectserver.cpp:98][time:0us][0-100] [1] [1]
+DEBUG: 09-28 21:24:48:  pbrpc * 28444 [  logid:  ][ubclient_connectserver.cpp:102][time:0us]server max conn : [100]
+DEBUG: 09-28 21:24:48:  pbrpc * 28444 [  logid:  ][ubclient_connectserver.cpp:108][time:0us]waiting num : [50]
+DEBUG: 09-28 21:24:48:  pbrpc * 28444 [  logid:  ][ubclient_connectserver.cpp:219][time:0us]last ip : [127.0.0.1]
+DEBUG: 09-28 21:24:48:  pbrpc * 28444 [  logid:  ][ubclient_connectserver.cpp:302][time:0us]clone
+NOTICE: 09-28 21:24:48:  pbrpc * 28444 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultConnectType:LONG  ]
+NOTICE: 09-28 21:24:48:  pbrpc * 28444 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultRetry:5  ]
+NOTICE: 09-28 21:24:48:  pbrpc * 28444 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultFetchConnMaxTime:0  ]
+NOTICE: 09-28 21:24:48:  pbrpc * 28444 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ConnectAll:0  ]
+NOTICE: 09-28 21:24:48:  pbrpc * 28444 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultReadTimeout:1000  ]
+NOTICE: 09-28 21:24:48:  pbrpc * 28444 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultWriteTimeout:1000  ]
+NOTICE: 09-28 21:24:48:  pbrpc * 28444 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultLinger:0  ]
+NOTICE: 09-28 21:24:48:  pbrpc * 28444 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ReqBuf:10000  ]
+NOTICE: 09-28 21:24:48:  pbrpc * 28444 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ResBuf:10000  ]
+DEBUG: 09-28 21:24:48:  pbrpc * 28444 [  logid:  ][netreactor.cpp:406][time:0us]set ThreadNum 4
+DEBUG: 09-28 21:24:48:  pbrpc * 28444 [  logid:  ][ubtask.cpp:88][time:0us]start task reactor thread num[4]
+NOTICE: 09-28 21:24:48:  pbrpc * 28446 --------------------------------------------------------------- open log_r.1090115936 ------------
+DEBUG: 09-28 21:24:48:  pbrpc * 28446 [  logid:  ][ubutils.h:430][time:2us]find pos[2] at cap[4]
+NOTICE: 09-28 21:24:48:  pbrpc * 28447 --------------------------------------------------------------- open log_r.1100605792 ------------
+DEBUG: 09-28 21:24:48:  pbrpc * 28446 [  logid:  ][netreactor.cpp:450][time:45us]NetReactor Debug
+DEBUG: 09-28 21:24:48:  pbrpc * 28447 [  logid:  ][ubutils.h:430][time:4us]find pos[2] at cap[4]
+NOTICE: 09-28 21:24:48:  pbrpc * 28448 --------------------------------------------------------------- open log_r.1125460320 ------------
+DEBUG: 09-28 21:24:48:  pbrpc * 28447 [  logid:  ][netreactor.cpp:450][time:33us]NetReactor Debug
+DEBUG: 09-28 21:24:48:  pbrpc * 28448 [  logid:  ][ubutils.h:430][time:2us]find pos[2] at cap[4]
+DEBUG: 09-28 21:24:48:  pbrpc * 28448 [  logid:  ][netreactor.cpp:450][time:41us]NetReactor Debug
+NOTICE: 09-28 21:24:48:  pbrpc * 28449 --------------------------------------------------------------- open log_r.1135950176 ------------
+DEBUG: 09-28 21:24:48:  pbrpc * 28449 [  logid:  ][ubutils.h:430][time:2us]find pos[2] at cap[4]
+DEBUG: 09-28 21:24:48:  pbrpc * 28449 [  logid:  ][netreactor.cpp:450][time:28us]NetReactor Debug
+DEBUG: 09-28 21:24:48:  pbrpc * 28444 [  logid:  ][UbSockEvent.cpp:183][time:0us]ub_event malloc memory(p:0xeb3b50, size:10036)
+DEBUG: 09-28 21:24:48:  pbrpc * 28446 [  logid:  ][netreactor.cpp:311][time:1956us]events 4, hd:17
+DEBUG: 09-28 21:24:48:  pbrpc * 28446 [NsheadEvent.cpp:371][logid:0, event:0xe27170, fd:17, status:0x0(UNKNOWN_STATUS), maxsize:0, srdbuf:0xe2727c,rdbuf:0xe2727c,rdlen:256,rdused:0, swtbuf:0xe2737c,wtbuf:0xeb3b50,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411910688, 701986]
+DEBUG: 09-28 21:24:48:  pbrpc * 28446 [  logid:  ][netreactor.cpp:153][time:64us]checking ev[14840176] status[1]
+DEBUG: 09-28 21:24:48:  pbrpc * 28446 [  logid:  ][netreactor.cpp:311][time:17us]events 4, hd:17
+DEBUG: 09-28 21:24:48:  pbrpc * 28446 [NsheadEvent.cpp:323][logid:0, event:0xe27170, fd:17, status:0x0(UNKNOWN_STATUS), maxsize:0, srdbuf:0xe2727c,rdbuf:0xe2727c,rdlen:256,rdused:0, swtbuf:0xe2737c,wtbuf:0xeb3b50,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411910688, 702077]
+DEBUG: 09-28 21:24:48:  pbrpc * 28446 [NsheadEvent.cpp:301][logid:0, event:0xe27170, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0xe2727c,rdbuf:0xe2727c,rdlen:256,rdused:0, swtbuf:0xe2737c,wtbuf:0xeb3b50,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0]NsheadEvent(nshead_aread) begin [handle:17]
+DEBUG: 09-28 21:24:48:  pbrpc * 28446 [NsheadEvent.cpp:308][logid:0, event:0xe27170, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0xe2727c,rdbuf:0xe2727c,rdlen:256,rdused:36, swtbuf:0xe2737c,wtbuf:0xeb3b50,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411910688, 702106]
+DEBUG: 09-28 21:24:48:  pbrpc * 28446 [NsheadEvent.cpp:346][logid:0, event:0xe27170, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0xe2727c,rdbuf:0xe2727c,rdlen:256,rdused:36, swtbuf:0xe2737c,wtbuf:0xeb3b50,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411910688, 702118]
+DEBUG: 09-28 21:24:48:  pbrpc * 28446 [  logid:  ][netreactor.cpp:132][time:93us]not checking  99
+DEBUG: 09-28 21:24:48:  pbrpc * 28446 [  logid:  ][netreactor.cpp:311][time:4564us]events 1, hd:17
+DEBUG: 09-28 21:24:48:  pbrpc * 28446 [  logid:  ][netreactor.cpp:132][time:28us]not checking  95
+DEBUG: 09-28 21:24:48:  pbrpc * 28446 [  logid:  ][netreactor.cpp:311][time:7us]events 1, hd:17
+DEBUG: 09-28 21:24:48:  pbrpc * 28446 [NsheadEvent.cpp:132][logid:0, event:0xe27170, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0xe2727c,rdbuf:0xe2727c,rdlen:256,rdused:209, swtbuf:0xe2737c,wtbuf:0xeb3b50,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411910688, 706736]
+DEBUG: 09-28 21:24:48:  pbrpc * 28446 [NsheadEvent.cpp:160][logid:0, event:0xe27170, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0xe2727c,rdbuf:0xe2727c,rdlen:256,rdused:209, swtbuf:0xe2737c,wtbuf:0xeb3b50,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:4+proc:0+write:0]nshead_aserver_aread_callback2 : done
+TRACE: 09-28 21:24:48:  pbrpc * 28446 [ logid:1 ] [AsyncClient.cpp:96]free pbrpc connection in async 0xe09fb0
+DEBUG: 09-28 21:24:48:  pbrpc * 28446 [  logid:  ][netreactor.cpp:132][time:275us]not checking  95
+NOTICE: 09-28 21:54:08:  pbrpc * 4209 --------------------------------------------------------------- open log ------------
+DEBUG: 09-28 21:54:08:  pbrpc * 4209 [  logid:  ][ubclient_connectmanager.cpp:547][time:0us]defaultCapacity : [100]
+DEBUG: 09-28 21:54:08:  pbrpc * 4209 [  logid:  ][ubclient_connectserver.cpp:90][time:0us]server port : 7788
+DEBUG: 09-28 21:54:08:  pbrpc * 4209 [  logid:  ][ubclient_connectserver.cpp:98][time:0us][0-100] [1] [1]
+DEBUG: 09-28 21:54:08:  pbrpc * 4209 [  logid:  ][ubclient_connectserver.cpp:102][time:0us]server max conn : [100]
+DEBUG: 09-28 21:54:08:  pbrpc * 4209 [  logid:  ][ubclient_connectserver.cpp:108][time:0us]waiting num : [50]
+DEBUG: 09-28 21:54:08:  pbrpc * 4209 [  logid:  ][ubclient_connectserver.cpp:219][time:0us]last ip : [127.0.0.1]
+DEBUG: 09-28 21:54:08:  pbrpc * 4209 [  logid:  ][ubclient_connectserver.cpp:302][time:0us]clone
+NOTICE: 09-28 21:54:08:  pbrpc * 4209 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultConnectType:LONG  ]
+NOTICE: 09-28 21:54:08:  pbrpc * 4209 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultRetry:5  ]
+NOTICE: 09-28 21:54:08:  pbrpc * 4209 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultFetchConnMaxTime:0  ]
+NOTICE: 09-28 21:54:08:  pbrpc * 4209 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ConnectAll:0  ]
+NOTICE: 09-28 21:54:08:  pbrpc * 4209 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultReadTimeout:1000  ]
+NOTICE: 09-28 21:54:08:  pbrpc * 4209 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultWriteTimeout:1000  ]
+NOTICE: 09-28 21:54:08:  pbrpc * 4209 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultLinger:0  ]
+NOTICE: 09-28 21:54:08:  pbrpc * 4209 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ReqBuf:10000  ]
+NOTICE: 09-28 21:54:08:  pbrpc * 4209 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ResBuf:10000  ]
+DEBUG: 09-28 21:54:08:  pbrpc * 4209 [  logid:  ][netreactor.cpp:406][time:0us]set ThreadNum 4
+DEBUG: 09-28 21:54:08:  pbrpc * 4209 [  logid:  ][ubtask.cpp:88][time:0us]start task reactor thread num[4]
+NOTICE: 09-28 21:54:08:  pbrpc * 4212 --------------------------------------------------------------- open log_r.1107151200 ------------
+DEBUG: 09-28 21:54:08:  pbrpc * 4212 [  logid:  ][ubutils.h:430][time:3us]find pos[2] at cap[4]
+NOTICE: 09-28 21:54:08:  pbrpc * 4214 --------------------------------------------------------------- open log_r.1128130912 ------------
+DEBUG: 09-28 21:54:08:  pbrpc * 4212 [  logid:  ][netreactor.cpp:450][time:49us]NetReactor Debug
+DEBUG: 09-28 21:54:08:  pbrpc * 4214 [  logid:  ][ubutils.h:430][time:2us]find pos[2] at cap[4]
+DEBUG: 09-28 21:54:08:  pbrpc * 4214 [  logid:  ][netreactor.cpp:450][time:26us]NetReactor Debug
+NOTICE: 09-28 21:54:08:  pbrpc * 4213 --------------------------------------------------------------- open log_r.1117641056 ------------
+DEBUG: 09-28 21:54:08:  pbrpc * 4213 [  logid:  ][ubutils.h:430][time:1us]find pos[2] at cap[4]
+DEBUG: 09-28 21:54:08:  pbrpc * 4213 [  logid:  ][netreactor.cpp:450][time:28us]NetReactor Debug
+NOTICE: 09-28 21:54:08:  pbrpc * 4215 --------------------------------------------------------------- open log_r.1138620768 ------------
+DEBUG: 09-28 21:54:08:  pbrpc * 4215 [  logid:  ][ubutils.h:430][time:2us]find pos[2] at cap[4]
+DEBUG: 09-28 21:54:08:  pbrpc * 4215 [  logid:  ][netreactor.cpp:450][time:25us]NetReactor Debug
+DEBUG: 09-28 21:54:08:  pbrpc * 4209 [  logid:  ][UbSockEvent.cpp:183][time:0us]ub_event malloc memory(p:0x7fe7f3187c70, size:10036)
+DEBUG: 09-28 21:54:08:  pbrpc * 4212 [  logid:  ][netreactor.cpp:311][time:2185us]events 4, hd:17
+DEBUG: 09-28 21:54:08:  pbrpc * 4212 [NsheadEvent.cpp:371][logid:0, event:0x7fe7f316c7f0, fd:17, status:0x0(UNKNOWN_STATUS), maxsize:0, srdbuf:0x7fe7f316c8fc,rdbuf:0x7fe7f316c8fc,rdlen:256,rdused:0, swtbuf:0x7fe7f316c9fc,wtbuf:0x7fe7f3187c70,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411912448, 563848]
+DEBUG: 09-28 21:54:08:  pbrpc * 4212 [  logid:  ][netreactor.cpp:153][time:87us]checking ev[140634192529392] status[1]
+DEBUG: 09-28 21:54:08:  pbrpc * 4212 [  logid:  ][netreactor.cpp:311][time:8us]events 4, hd:17
+DEBUG: 09-28 21:54:08:  pbrpc * 4212 [NsheadEvent.cpp:323][logid:0, event:0x7fe7f316c7f0, fd:17, status:0x0(UNKNOWN_STATUS), maxsize:0, srdbuf:0x7fe7f316c8fc,rdbuf:0x7fe7f316c8fc,rdlen:256,rdused:0, swtbuf:0x7fe7f316c9fc,wtbuf:0x7fe7f3187c70,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411912448, 563945]
+DEBUG: 09-28 21:54:08:  pbrpc * 4212 [NsheadEvent.cpp:301][logid:0, event:0x7fe7f316c7f0, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0x7fe7f316c8fc,rdbuf:0x7fe7f316c8fc,rdlen:256,rdused:0, swtbuf:0x7fe7f316c9fc,wtbuf:0x7fe7f3187c70,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0]NsheadEvent(nshead_aread) begin [handle:17]
+DEBUG: 09-28 21:54:08:  pbrpc * 4212 [NsheadEvent.cpp:308][logid:0, event:0x7fe7f316c7f0, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0x7fe7f316c8fc,rdbuf:0x7fe7f316c8fc,rdlen:256,rdused:36, swtbuf:0x7fe7f316c9fc,wtbuf:0x7fe7f3187c70,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411912448, 563989]
+DEBUG: 09-28 21:54:08:  pbrpc * 4212 [NsheadEvent.cpp:346][logid:0, event:0x7fe7f316c7f0, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0x7fe7f316c8fc,rdbuf:0x7fe7f316c8fc,rdlen:256,rdused:36, swtbuf:0x7fe7f316c9fc,wtbuf:0x7fe7f3187c70,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411912448, 564001]
+DEBUG: 09-28 21:54:08:  pbrpc * 4212 [  logid:  ][netreactor.cpp:132][time:114us]not checking  99
+DEBUG: 09-28 21:54:08:  pbrpc * 4212 [  logid:  ][netreactor.cpp:311][time:4661us]events 1, hd:17
+DEBUG: 09-28 21:54:08:  pbrpc * 4212 [  logid:  ][netreactor.cpp:132][time:26us]not checking  95
+DEBUG: 09-28 21:54:08:  pbrpc * 4212 [  logid:  ][netreactor.cpp:311][time:7us]events 1, hd:17
+DEBUG: 09-28 21:54:08:  pbrpc * 4212 [NsheadEvent.cpp:132][logid:0, event:0x7fe7f316c7f0, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0x7fe7f316c8fc,rdbuf:0x7fe7f316c8fc,rdlen:256,rdused:209, swtbuf:0x7fe7f316c9fc,wtbuf:0x7fe7f3187c70,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411912448, 568714]
+DEBUG: 09-28 21:54:08:  pbrpc * 4212 [NsheadEvent.cpp:160][logid:0, event:0x7fe7f316c7f0, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0x7fe7f316c8fc,rdbuf:0x7fe7f316c8fc,rdlen:256,rdused:209, swtbuf:0x7fe7f316c9fc,wtbuf:0x7fe7f3187c70,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:4+proc:0+write:0]nshead_aserver_aread_callback2 : done
+TRACE: 09-28 21:54:08:  pbrpc * 4212 [ logid:1 ] [AsyncClient.cpp:96]free pbrpc connection in async (nil)
+DEBUG: 09-28 21:54:08:  pbrpc * 4212 [  logid:  ][netreactor.cpp:132][time:303us]not checking  94
+NOTICE: 09-28 21:54:41:  pbrpc * 5598 --------------------------------------------------------------- open log ------------
+DEBUG: 09-28 21:54:41:  pbrpc * 5598 [  logid:  ][ubclient_connectmanager.cpp:547][time:0us]defaultCapacity : [100]
+DEBUG: 09-28 21:54:41:  pbrpc * 5598 [  logid:  ][ubclient_connectserver.cpp:90][time:0us]server port : 7788
+DEBUG: 09-28 21:54:41:  pbrpc * 5598 [  logid:  ][ubclient_connectserver.cpp:98][time:0us][0-100] [1] [1]
+DEBUG: 09-28 21:54:41:  pbrpc * 5598 [  logid:  ][ubclient_connectserver.cpp:102][time:0us]server max conn : [100]
+DEBUG: 09-28 21:54:41:  pbrpc * 5598 [  logid:  ][ubclient_connectserver.cpp:108][time:0us]waiting num : [50]
+DEBUG: 09-28 21:54:41:  pbrpc * 5598 [  logid:  ][ubclient_connectserver.cpp:219][time:0us]last ip : [127.0.0.1]
+DEBUG: 09-28 21:54:41:  pbrpc * 5598 [  logid:  ][ubclient_connectserver.cpp:302][time:0us]clone
+NOTICE: 09-28 21:54:41:  pbrpc * 5598 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultConnectType:LONG  ]
+NOTICE: 09-28 21:54:41:  pbrpc * 5598 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultRetry:5  ]
+NOTICE: 09-28 21:54:41:  pbrpc * 5598 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultFetchConnMaxTime:0  ]
+NOTICE: 09-28 21:54:41:  pbrpc * 5598 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ConnectAll:0  ]
+NOTICE: 09-28 21:54:41:  pbrpc * 5598 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultReadTimeout:1000  ]
+NOTICE: 09-28 21:54:41:  pbrpc * 5598 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultWriteTimeout:1000  ]
+NOTICE: 09-28 21:54:41:  pbrpc * 5598 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultLinger:0  ]
+NOTICE: 09-28 21:54:41:  pbrpc * 5598 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ReqBuf:10000  ]
+NOTICE: 09-28 21:54:41:  pbrpc * 5598 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ResBuf:10000  ]
+DEBUG: 09-28 21:54:41:  pbrpc * 5598 [  logid:  ][netreactor.cpp:406][time:0us]set ThreadNum 4
+DEBUG: 09-28 21:54:41:  pbrpc * 5598 [  logid:  ][ubtask.cpp:88][time:0us]start task reactor thread num[4]
+NOTICE: 09-28 21:54:41:  pbrpc * 5601 --------------------------------------------------------------- open log_r.1084557664 ------------
+DEBUG: 09-28 21:54:41:  pbrpc * 5601 [  logid:  ][ubutils.h:430][time:3us]find pos[2] at cap[4]
+NOTICE: 09-28 21:54:41:  pbrpc * 5602 --------------------------------------------------------------- open log_r.1116625248 ------------
+DEBUG: 09-28 21:54:41:  pbrpc * 5601 [  logid:  ][netreactor.cpp:450][time:48us]NetReactor Debug
+DEBUG: 09-28 21:54:41:  pbrpc * 5602 [  logid:  ][ubutils.h:430][time:2us]find pos[2] at cap[4]
+DEBUG: 09-28 21:54:41:  pbrpc * 5602 [  logid:  ][netreactor.cpp:450][time:25us]NetReactor Debug
+NOTICE: 09-28 21:54:41:  pbrpc * 5603 --------------------------------------------------------------- open log_r.1127115104 ------------
+DEBUG: 09-28 21:54:41:  pbrpc * 5603 [  logid:  ][ubutils.h:430][time:2us]find pos[2] at cap[4]
+DEBUG: 09-28 21:54:41:  pbrpc * 5603 [  logid:  ][netreactor.cpp:450][time:27us]NetReactor Debug
+NOTICE: 09-28 21:54:41:  pbrpc * 5604 --------------------------------------------------------------- open log_r.1137604960 ------------
+DEBUG: 09-28 21:54:41:  pbrpc * 5604 [  logid:  ][ubutils.h:430][time:2us]find pos[2] at cap[4]
+DEBUG: 09-28 21:54:41:  pbrpc * 5604 [  logid:  ][netreactor.cpp:450][time:30us]NetReactor Debug
+DEBUG: 09-28 21:54:41:  pbrpc * 5598 [  logid:  ][UbSockEvent.cpp:183][time:0us]ub_event malloc memory(p:0x7f6463884690, size:10036)
+DEBUG: 09-28 21:54:41:  pbrpc * 5603 [  logid:  ][netreactor.cpp:311][time:2072us]events 4, hd:17
+DEBUG: 09-28 21:54:41:  pbrpc * 5603 [NsheadEvent.cpp:371][logid:0, event:0x7f6463869230, fd:17, status:0x0(UNKNOWN_STATUS), maxsize:0, srdbuf:0x7f646386933c,rdbuf:0x7f646386933c,rdlen:256,rdused:0, swtbuf:0x7f646386943c,wtbuf:0x7f6463884690,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411912481, 16453]
+DEBUG: 09-28 21:54:41:  pbrpc * 5603 [  logid:  ][netreactor.cpp:153][time:61us]checking ev[140069143220784] status[1]
+DEBUG: 09-28 21:54:41:  pbrpc * 5603 [  logid:  ][netreactor.cpp:311][time:7us]events 4, hd:17
+DEBUG: 09-28 21:54:41:  pbrpc * 5603 [NsheadEvent.cpp:323][logid:0, event:0x7f6463869230, fd:17, status:0x0(UNKNOWN_STATUS), maxsize:0, srdbuf:0x7f646386933c,rdbuf:0x7f646386933c,rdlen:256,rdused:0, swtbuf:0x7f646386943c,wtbuf:0x7f6463884690,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411912481, 16527]
+DEBUG: 09-28 21:54:41:  pbrpc * 5603 [NsheadEvent.cpp:301][logid:0, event:0x7f6463869230, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0x7f646386933c,rdbuf:0x7f646386933c,rdlen:256,rdused:0, swtbuf:0x7f646386943c,wtbuf:0x7f6463884690,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0]NsheadEvent(nshead_aread) begin [handle:17]
+DEBUG: 09-28 21:54:41:  pbrpc * 5603 [NsheadEvent.cpp:308][logid:0, event:0x7f6463869230, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0x7f646386933c,rdbuf:0x7f646386933c,rdlen:256,rdused:36, swtbuf:0x7f646386943c,wtbuf:0x7f6463884690,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411912481, 16569]
+DEBUG: 09-28 21:54:41:  pbrpc * 5603 [NsheadEvent.cpp:346][logid:0, event:0x7f6463869230, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0x7f646386933c,rdbuf:0x7f646386933c,rdlen:256,rdused:36, swtbuf:0x7f646386943c,wtbuf:0x7f6463884690,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411912481, 16581]
+DEBUG: 09-28 21:54:41:  pbrpc * 5603 [  logid:  ][netreactor.cpp:132][time:103us]not checking  99
+DEBUG: 09-28 21:54:41:  pbrpc * 5603 [  logid:  ][netreactor.cpp:311][time:4416us]events 1, hd:17
+DEBUG: 09-28 21:54:41:  pbrpc * 5603 [  logid:  ][netreactor.cpp:132][time:30us]not checking  95
+DEBUG: 09-28 21:54:41:  pbrpc * 5603 [  logid:  ][netreactor.cpp:311][time:9us]events 1, hd:17
+DEBUG: 09-28 21:54:41:  pbrpc * 5603 [NsheadEvent.cpp:132][logid:0, event:0x7f6463869230, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0x7f646386933c,rdbuf:0x7f646386933c,rdlen:256,rdused:209, swtbuf:0x7f646386943c,wtbuf:0x7f6463884690,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411912481, 21055]
+DEBUG: 09-28 21:54:41:  pbrpc * 5603 [NsheadEvent.cpp:160][logid:0, event:0x7f6463869230, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0x7f646386933c,rdbuf:0x7f646386933c,rdlen:256,rdused:209, swtbuf:0x7f646386943c,wtbuf:0x7f6463884690,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:4+proc:0+write:0]nshead_aserver_aread_callback2 : done
+TRACE: 09-28 21:54:41:  pbrpc * 5603 [ logid:1 ] [AsyncClient.cpp:96]free pbrpc connection in async (nil)
+DEBUG: 09-28 21:54:41:  pbrpc * 5603 [  logid:  ][netreactor.cpp:132][time:250us]not checking  95
+NOTICE: 09-28 21:55:33:  pbrpc * 9274 --------------------------------------------------------------- open log ------------
+DEBUG: 09-28 21:55:33:  pbrpc * 9274 [  logid:  ][ubclient_connectmanager.cpp:547][time:0us]defaultCapacity : [100]
+DEBUG: 09-28 21:55:33:  pbrpc * 9274 [  logid:  ][ubclient_connectserver.cpp:90][time:0us]server port : 7788
+DEBUG: 09-28 21:55:33:  pbrpc * 9274 [  logid:  ][ubclient_connectserver.cpp:98][time:0us][0-100] [1] [1]
+DEBUG: 09-28 21:55:33:  pbrpc * 9274 [  logid:  ][ubclient_connectserver.cpp:102][time:0us]server max conn : [100]
+DEBUG: 09-28 21:55:33:  pbrpc * 9274 [  logid:  ][ubclient_connectserver.cpp:108][time:0us]waiting num : [50]
+DEBUG: 09-28 21:55:33:  pbrpc * 9274 [  logid:  ][ubclient_connectserver.cpp:219][time:0us]last ip : [127.0.0.1]
+DEBUG: 09-28 21:55:33:  pbrpc * 9274 [  logid:  ][ubclient_connectserver.cpp:302][time:0us]clone
+NOTICE: 09-28 21:55:33:  pbrpc * 9274 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultConnectType:LONG  ]
+NOTICE: 09-28 21:55:33:  pbrpc * 9274 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultRetry:5  ]
+NOTICE: 09-28 21:55:33:  pbrpc * 9274 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultFetchConnMaxTime:0  ]
+NOTICE: 09-28 21:55:33:  pbrpc * 9274 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ConnectAll:0  ]
+NOTICE: 09-28 21:55:33:  pbrpc * 9274 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultReadTimeout:1000  ]
+NOTICE: 09-28 21:55:33:  pbrpc * 9274 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultWriteTimeout:1000  ]
+NOTICE: 09-28 21:55:33:  pbrpc * 9274 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultLinger:0  ]
+NOTICE: 09-28 21:55:33:  pbrpc * 9274 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ReqBuf:10000  ]
+NOTICE: 09-28 21:55:33:  pbrpc * 9274 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ResBuf:10000  ]
+DEBUG: 09-28 21:55:33:  pbrpc * 9274 [  logid:  ][netreactor.cpp:406][time:0us]set ThreadNum 4
+DEBUG: 09-28 21:55:33:  pbrpc * 9274 [  logid:  ][ubtask.cpp:88][time:0us]start task reactor thread num[4]
+NOTICE: 09-28 21:55:33:  pbrpc * 9277 --------------------------------------------------------------- open log_r.1098307936 ------------
+DEBUG: 09-28 21:55:33:  pbrpc * 9277 [  logid:  ][ubutils.h:430][time:4us]find pos[2] at cap[4]
+DEBUG: 09-28 21:55:33:  pbrpc * 9277 [  logid:  ][netreactor.cpp:450][time:38us]NetReactor Debug
+NOTICE: 09-28 21:55:33:  pbrpc * 9279 --------------------------------------------------------------- open log_r.1119287648 ------------
+DEBUG: 09-28 21:55:33:  pbrpc * 9279 [  logid:  ][ubutils.h:430][time:2us]find pos[2] at cap[4]
+DEBUG: 09-28 21:55:33:  pbrpc * 9279 [  logid:  ][netreactor.cpp:450][time:28us]NetReactor Debug
+NOTICE: 09-28 21:55:33:  pbrpc * 9278 --------------------------------------------------------------- open log_r.1108797792 ------------
+DEBUG: 09-28 21:55:33:  pbrpc * 9278 [  logid:  ][ubutils.h:430][time:1us]find pos[2] at cap[4]
+DEBUG: 09-28 21:55:33:  pbrpc * 9278 [  logid:  ][netreactor.cpp:450][time:37us]NetReactor Debug
+NOTICE: 09-28 21:55:33:  pbrpc * 9280 --------------------------------------------------------------- open log_r.1129777504 ------------
+DEBUG: 09-28 21:55:33:  pbrpc * 9280 [  logid:  ][ubutils.h:430][time:1us]find pos[2] at cap[4]
+DEBUG: 09-28 21:55:33:  pbrpc * 9280 [  logid:  ][netreactor.cpp:450][time:18us]NetReactor Debug
+DEBUG: 09-28 21:55:33:  pbrpc * 9274 [  logid:  ][UbSockEvent.cpp:183][time:0us]ub_event malloc memory(p:0x7f01a4884c50, size:10036)
+DEBUG: 09-28 21:55:33:  pbrpc * 9278 [  logid:  ][netreactor.cpp:311][time:2006us]events 4, hd:17
+DEBUG: 09-28 21:55:33:  pbrpc * 9278 [NsheadEvent.cpp:371][logid:0, event:0x7f01a48697d0, fd:17, status:0x0(UNKNOWN_STATUS), maxsize:0, srdbuf:0x7f01a48698dc,rdbuf:0x7f01a48698dc,rdlen:256,rdused:0, swtbuf:0x7f01a48699dc,wtbuf:0x7f01a4884c50,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411912533, 87912]
+DEBUG: 09-28 21:55:33:  pbrpc * 9278 [  logid:  ][netreactor.cpp:153][time:75us]checking ev[139645031978960] status[1]
+DEBUG: 09-28 21:55:33:  pbrpc * 9278 [  logid:  ][netreactor.cpp:311][time:8us]events 4, hd:17
+DEBUG: 09-28 21:55:33:  pbrpc * 9278 [NsheadEvent.cpp:323][logid:0, event:0x7f01a48697d0, fd:17, status:0x0(UNKNOWN_STATUS), maxsize:0, srdbuf:0x7f01a48698dc,rdbuf:0x7f01a48698dc,rdlen:256,rdused:0, swtbuf:0x7f01a48699dc,wtbuf:0x7f01a4884c50,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411912533, 88002]
+DEBUG: 09-28 21:55:33:  pbrpc * 9278 [NsheadEvent.cpp:301][logid:0, event:0x7f01a48697d0, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0x7f01a48698dc,rdbuf:0x7f01a48698dc,rdlen:256,rdused:0, swtbuf:0x7f01a48699dc,wtbuf:0x7f01a4884c50,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0]NsheadEvent(nshead_aread) begin [handle:17]
+DEBUG: 09-28 21:55:33:  pbrpc * 9278 [NsheadEvent.cpp:308][logid:0, event:0x7f01a48697d0, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0x7f01a48698dc,rdbuf:0x7f01a48698dc,rdlen:256,rdused:36, swtbuf:0x7f01a48699dc,wtbuf:0x7f01a4884c50,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411912533, 88046]
+DEBUG: 09-28 21:55:33:  pbrpc * 9278 [NsheadEvent.cpp:346][logid:0, event:0x7f01a48697d0, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0x7f01a48698dc,rdbuf:0x7f01a48698dc,rdlen:256,rdused:36, swtbuf:0x7f01a48699dc,wtbuf:0x7f01a4884c50,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411912533, 88060]
+DEBUG: 09-28 21:55:33:  pbrpc * 9278 [  logid:  ][netreactor.cpp:132][time:110us]not checking  99
+DEBUG: 09-28 21:55:33:  pbrpc * 9278 [  logid:  ][netreactor.cpp:311][time:4433us]events 1, hd:17
+DEBUG: 09-28 21:55:33:  pbrpc * 9278 [  logid:  ][netreactor.cpp:132][time:28us]not checking  95
+DEBUG: 09-28 21:55:33:  pbrpc * 9278 [  logid:  ][netreactor.cpp:311][time:7us]events 1, hd:17
+DEBUG: 09-28 21:55:33:  pbrpc * 9278 [NsheadEvent.cpp:132][logid:0, event:0x7f01a48697d0, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0x7f01a48698dc,rdbuf:0x7f01a48698dc,rdlen:256,rdused:209, swtbuf:0x7f01a48699dc,wtbuf:0x7f01a4884c50,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411912533, 92546]
+DEBUG: 09-28 21:55:33:  pbrpc * 9278 [NsheadEvent.cpp:160][logid:0, event:0x7f01a48697d0, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0x7f01a48698dc,rdbuf:0x7f01a48698dc,rdlen:256,rdused:209, swtbuf:0x7f01a48699dc,wtbuf:0x7f01a4884c50,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:4+proc:0+write:0]nshead_aserver_aread_callback2 : done
+TRACE: 09-28 21:55:33:  pbrpc * 9278 [ logid:1 ] [AsyncClient.cpp:96]free pbrpc connection in async (nil)
+DEBUG: 09-28 21:55:33:  pbrpc * 9278 [  logid:  ][netreactor.cpp:132][time:263us]not checking  95
+NOTICE: 09-28 21:57:59:  pbrpc * 15151 --------------------------------------------------------------- open log ------------
+DEBUG: 09-28 21:57:59:  pbrpc * 15151 [  logid:  ][ubclient_connectmanager.cpp:547][time:0us]defaultCapacity : [100]
+DEBUG: 09-28 21:57:59:  pbrpc * 15151 [  logid:  ][ubclient_connectserver.cpp:90][time:0us]server port : 7788
+DEBUG: 09-28 21:57:59:  pbrpc * 15151 [  logid:  ][ubclient_connectserver.cpp:98][time:0us][0-100] [1] [1]
+DEBUG: 09-28 21:57:59:  pbrpc * 15151 [  logid:  ][ubclient_connectserver.cpp:102][time:0us]server max conn : [100]
+DEBUG: 09-28 21:57:59:  pbrpc * 15151 [  logid:  ][ubclient_connectserver.cpp:108][time:0us]waiting num : [50]
+DEBUG: 09-28 21:57:59:  pbrpc * 15151 [  logid:  ][ubclient_connectserver.cpp:219][time:0us]last ip : [127.0.0.1]
+DEBUG: 09-28 21:57:59:  pbrpc * 15151 [  logid:  ][ubclient_connectserver.cpp:302][time:0us]clone
+NOTICE: 09-28 21:57:59:  pbrpc * 15151 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultConnectType:LONG  ]
+NOTICE: 09-28 21:57:59:  pbrpc * 15151 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultRetry:5  ]
+NOTICE: 09-28 21:57:59:  pbrpc * 15151 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultFetchConnMaxTime:0  ]
+NOTICE: 09-28 21:57:59:  pbrpc * 15151 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ConnectAll:0  ]
+NOTICE: 09-28 21:57:59:  pbrpc * 15151 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultReadTimeout:1000  ]
+NOTICE: 09-28 21:57:59:  pbrpc * 15151 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultWriteTimeout:1000  ]
+NOTICE: 09-28 21:57:59:  pbrpc * 15151 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultLinger:0  ]
+NOTICE: 09-28 21:57:59:  pbrpc * 15151 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ReqBuf:10000  ]
+NOTICE: 09-28 21:57:59:  pbrpc * 15151 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ResBuf:10000  ]
+DEBUG: 09-28 21:57:59:  pbrpc * 15151 [  logid:  ][netreactor.cpp:406][time:0us]set ThreadNum 4
+DEBUG: 09-28 21:57:59:  pbrpc * 15151 [  logid:  ][ubtask.cpp:88][time:0us]start task reactor thread num[4]
+NOTICE: 09-28 21:57:59:  pbrpc * 15154 --------------------------------------------------------------- open log_r.1111767392 ------------
+DEBUG: 09-28 21:57:59:  pbrpc * 15154 [  logid:  ][ubutils.h:430][time:3us]find pos[2] at cap[4]
+NOTICE: 09-28 21:57:59:  pbrpc * 15155 --------------------------------------------------------------- open log_r.1122257248 ------------
+DEBUG: 09-28 21:57:59:  pbrpc * 15154 [  logid:  ][netreactor.cpp:450][time:50us]NetReactor Debug
+DEBUG: 09-28 21:57:59:  pbrpc * 15155 [  logid:  ][ubutils.h:430][time:2us]find pos[2] at cap[4]
+DEBUG: 09-28 21:57:59:  pbrpc * 15155 [  logid:  ][netreactor.cpp:450][time:24us]NetReactor Debug
+NOTICE: 09-28 21:57:59:  pbrpc * 15156 --------------------------------------------------------------- open log_r.1085573472 ------------
+DEBUG: 09-28 21:57:59:  pbrpc * 15156 [  logid:  ][ubutils.h:430][time:3us]find pos[2] at cap[4]
+DEBUG: 09-28 21:57:59:  pbrpc * 15156 [  logid:  ][netreactor.cpp:450][time:45us]NetReactor Debug
+NOTICE: 09-28 21:57:59:  pbrpc * 15157 --------------------------------------------------------------- open log_r.1132747104 ------------
+DEBUG: 09-28 21:57:59:  pbrpc * 15157 [  logid:  ][ubutils.h:430][time:2us]find pos[2] at cap[4]
+DEBUG: 09-28 21:57:59:  pbrpc * 15157 [  logid:  ][netreactor.cpp:450][time:23us]NetReactor Debug
+DEBUG: 09-28 21:57:59:  pbrpc * 15151 [  logid:  ][UbSockEvent.cpp:183][time:0us]ub_event malloc memory(p:0x7f4889dc93d0, size:10036)
+DEBUG: 09-28 21:57:59:  pbrpc * 15155 [  logid:  ][netreactor.cpp:311][time:1971us]events 4, hd:17
+DEBUG: 09-28 21:57:59:  pbrpc * 15155 [NsheadEvent.cpp:371][logid:0, event:0x7f4889d121a0, fd:17, status:0x0(UNKNOWN_STATUS), maxsize:0, srdbuf:0x7f4889d122ac,rdbuf:0x7f4889d122ac,rdlen:256,rdused:0, swtbuf:0x7f4889d123ac,wtbuf:0x7f4889dc93d0,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411912679, 829647]
+DEBUG: 09-28 21:57:59:  pbrpc * 15155 [  logid:  ][netreactor.cpp:153][time:85us]checking ev[139949526557088] status[1]
+DEBUG: 09-28 21:57:59:  pbrpc * 15155 [  logid:  ][netreactor.cpp:311][time:9us]events 4, hd:17
+DEBUG: 09-28 21:57:59:  pbrpc * 15155 [NsheadEvent.cpp:323][logid:0, event:0x7f4889d121a0, fd:17, status:0x0(UNKNOWN_STATUS), maxsize:0, srdbuf:0x7f4889d122ac,rdbuf:0x7f4889d122ac,rdlen:256,rdused:0, swtbuf:0x7f4889d123ac,wtbuf:0x7f4889dc93d0,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411912679, 829739]
+DEBUG: 09-28 21:57:59:  pbrpc * 15155 [NsheadEvent.cpp:301][logid:0, event:0x7f4889d121a0, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0x7f4889d122ac,rdbuf:0x7f4889d122ac,rdlen:256,rdused:0, swtbuf:0x7f4889d123ac,wtbuf:0x7f4889dc93d0,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0]NsheadEvent(nshead_aread) begin [handle:17]
+DEBUG: 09-28 21:57:59:  pbrpc * 15155 [NsheadEvent.cpp:308][logid:0, event:0x7f4889d121a0, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0x7f4889d122ac,rdbuf:0x7f4889d122ac,rdlen:256,rdused:36, swtbuf:0x7f4889d123ac,wtbuf:0x7f4889dc93d0,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411912679, 829790]
+DEBUG: 09-28 21:57:59:  pbrpc * 15155 [NsheadEvent.cpp:346][logid:0, event:0x7f4889d121a0, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0x7f4889d122ac,rdbuf:0x7f4889d122ac,rdlen:256,rdused:36, swtbuf:0x7f4889d123ac,wtbuf:0x7f4889dc93d0,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411912679, 829803]
+DEBUG: 09-28 21:57:59:  pbrpc * 15155 [  logid:  ][netreactor.cpp:132][time:115us]not checking  99
+DEBUG: 09-28 21:57:59:  pbrpc * 15155 [  logid:  ][netreactor.cpp:311][time:4237us]events 1, hd:17
+DEBUG: 09-28 21:57:59:  pbrpc * 15155 [  logid:  ][netreactor.cpp:132][time:24us]not checking  95
+DEBUG: 09-28 21:57:59:  pbrpc * 15155 [  logid:  ][netreactor.cpp:311][time:7us]events 1, hd:17
+DEBUG: 09-28 21:57:59:  pbrpc * 15155 [NsheadEvent.cpp:132][logid:0, event:0x7f4889d121a0, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0x7f4889d122ac,rdbuf:0x7f4889d122ac,rdlen:256,rdused:209, swtbuf:0x7f4889d123ac,wtbuf:0x7f4889dc93d0,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:0+proc:0+write:0][time: 1411912679, 834090]
+DEBUG: 09-28 21:57:59:  pbrpc * 15155 [NsheadEvent.cpp:160][logid:0, event:0x7f4889d121a0, fd:17, status:0xB(WRITE), maxsize:0, srdbuf:0x7f4889d122ac,rdbuf:0x7f4889d122ac,rdlen:256,rdused:209, swtbuf:0x7f4889d123ac,wtbuf:0x7f4889dc93d0,wtlen:10036,wtused:171, rdto:1000,wtto:1000,cnto:1000,proto:0, ip:127.0.0.1, port:7788, proctime:total:0(ms),activate:0+read:4+proc:0+write:0]nshead_aserver_aread_callback2 : done
+TRACE: 09-28 21:57:59:  pbrpc * 15155 [ logid:1 ] [AsyncClient.cpp:96]free pbrpc connection in async 0x76726573fffffffe
+DEBUG: 09-28 21:57:59:  pbrpc * 15155 [  logid:  ][netreactor.cpp:132][time:288us]not checking  95
+NOTICE: 09-28 22:01:40:  pbrpc * 24358 --------------------------------------------------------------- open log ------------
+NOTICE: 09-28 22:01:40:  pbrpc * 24358 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultConnectType:LONG  ]
+NOTICE: 09-28 22:01:40:  pbrpc * 24358 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultRetry:5  ]
+NOTICE: 09-28 22:01:40:  pbrpc * 24358 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultFetchConnMaxTime:0  ]
+NOTICE: 09-28 22:01:40:  pbrpc * 24358 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ConnectAll:0  ]
+NOTICE: 09-28 22:01:40:  pbrpc * 24358 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultReadTimeout:1000  ]
+NOTICE: 09-28 22:01:40:  pbrpc * 24358 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultWriteTimeout:1000  ]
+NOTICE: 09-28 22:01:40:  pbrpc * 24358 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultLinger:0  ]
+NOTICE: 09-28 22:01:40:  pbrpc * 24358 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ReqBuf:10000  ]
+NOTICE: 09-28 22:01:40:  pbrpc * 24358 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ResBuf:10000  ]
+NOTICE: 09-28 22:01:40:  pbrpc * 24361 --------------------------------------------------------------- open log_r.1107024224 ------------
+NOTICE: 09-28 22:01:40:  pbrpc * 24362 --------------------------------------------------------------- open log_r.1117514080 ------------
+NOTICE: 09-28 22:01:40:  pbrpc * 24363 --------------------------------------------------------------- open log_r.1128003936 ------------
+NOTICE: 09-28 22:01:40:  pbrpc * 24364 --------------------------------------------------------------- open log_r.1138493792 ------------
+NOTICE: 09-28 22:16:48:  pbrpc * 31108 --------------------------------------------------------------- open log ------------
+NOTICE: 09-28 22:16:48:  pbrpc * 31108 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultConnectType:LONG  ]
+NOTICE: 09-28 22:16:48:  pbrpc * 31108 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultRetry:5  ]
+NOTICE: 09-28 22:16:48:  pbrpc * 31108 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultFetchConnMaxTime:0  ]
+NOTICE: 09-28 22:16:48:  pbrpc * 31108 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ConnectAll:0  ]
+NOTICE: 09-28 22:16:48:  pbrpc * 31108 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultReadTimeout:1000  ]
+NOTICE: 09-28 22:16:48:  pbrpc * 31108 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultWriteTimeout:1000  ]
+NOTICE: 09-28 22:16:48:  pbrpc * 31108 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultLinger:0  ]
+NOTICE: 09-28 22:16:48:  pbrpc * 31108 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ReqBuf:10000  ]
+NOTICE: 09-28 22:16:48:  pbrpc * 31108 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ResBuf:10000  ]
+NOTICE: 09-28 22:16:48:  pbrpc * 31111 --------------------------------------------------------------- open log_r.1084234080 ------------
+NOTICE: 09-28 22:16:48:  pbrpc * 31112 --------------------------------------------------------------- open log_r.1110579552 ------------
+NOTICE: 09-28 22:16:48:  pbrpc * 31113 --------------------------------------------------------------- open log_r.1121069408 ------------
+NOTICE: 09-28 22:16:48:  pbrpc * 31114 --------------------------------------------------------------- open log_r.1131559264 ------------
+NOTICE: 09-28 22:19:05:  pbrpc * 3870 --------------------------------------------------------------- open log ------------
+NOTICE: 09-28 22:19:05:  pbrpc * 3870 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultConnectType:LONG  ]
+NOTICE: 09-28 22:19:05:  pbrpc * 3870 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultRetry:5  ]
+NOTICE: 09-28 22:19:05:  pbrpc * 3870 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultFetchConnMaxTime:0  ]
+NOTICE: 09-28 22:19:05:  pbrpc * 3870 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ConnectAll:0  ]
+NOTICE: 09-28 22:19:05:  pbrpc * 3870 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultReadTimeout:1000  ]
+NOTICE: 09-28 22:19:05:  pbrpc * 3870 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultWriteTimeout:1000  ]
+NOTICE: 09-28 22:19:05:  pbrpc * 3870 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultLinger:0  ]
+NOTICE: 09-28 22:19:05:  pbrpc * 3870 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ReqBuf:10000  ]
+NOTICE: 09-28 22:19:05:  pbrpc * 3870 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ResBuf:10000  ]
+NOTICE: 09-28 22:19:05:  pbrpc * 3873 --------------------------------------------------------------- open log_r.1112926560 ------------
+NOTICE: 09-28 22:19:05:  pbrpc * 3874 --------------------------------------------------------------- open log_r.1123416416 ------------
+NOTICE: 09-28 22:19:05:  pbrpc * 3875 --------------------------------------------------------------- open log_r.1133906272 ------------
+NOTICE: 09-28 22:19:05:  pbrpc * 3876 --------------------------------------------------------------- open log_r.1089395040 ------------
+NOTICE: 09-28 22:53:37:  pbrpc * 28893 --------------------------------------------------------------- open log ------------
+NOTICE: 09-28 23:04:27:  pbrpc * 26206 --------------------------------------------------------------- open log ------------
+NOTICE: 09-28 23:04:27:  pbrpc * 26207 --------------------------------------------------------------- open log_r.1094764896 ------------
+NOTICE: 09-28 23:04:27:  pbrpc * 26212 --------------------------------------------------------------- open log_r.1154472288 ------------
+NOTICE: 09-28 23:04:27:  pbrpc * 26208 --------------------------------------------------------------- open log_r.1112512864 ------------
+NOTICE: 09-28 23:04:27:  pbrpc * 26209 --------------------------------------------------------------- open log_r.1123002720 ------------
+NOTICE: 09-28 23:04:27:  pbrpc * 26211 --------------------------------------------------------------- open log_r.1143982432 ------------
+NOTICE: 09-28 23:04:27:  pbrpc * 26210 --------------------------------------------------------------- open log_r.1133492576 ------------
+NOTICE: 09-28 23:04:27:  pbrpc * 26213 --------------------------------------------------------------- open log_r.1164962144 ------------
+NOTICE: 09-28 23:04:27:  pbrpc * 26214 --------------------------------------------------------------- open log_r.1175452000 ------------
+NOTICE: 09-28 23:04:27:  pbrpc * 26215 --------------------------------------------------------------- open log_r.1185941856 ------------
+NOTICE: 09-28 23:04:49:  pbrpc * 27840 --------------------------------------------------------------- open log ------------
+NOTICE: 09-28 23:04:49:  pbrpc * 27840 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultConnectType:LONG  ]
+NOTICE: 09-28 23:04:49:  pbrpc * 27840 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultRetry:5  ]
+NOTICE: 09-28 23:04:49:  pbrpc * 27840 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultFetchConnMaxTime:0  ]
+NOTICE: 09-28 23:04:49:  pbrpc * 27840 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ConnectAll:0  ]
+NOTICE: 09-28 23:04:49:  pbrpc * 27840 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultReadTimeout:1000  ]
+NOTICE: 09-28 23:04:49:  pbrpc * 27840 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultWriteTimeout:1000  ]
+NOTICE: 09-28 23:04:49:  pbrpc * 27840 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] DefaultLinger:0  ]
+NOTICE: 09-28 23:04:49:  pbrpc * 27840 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ReqBuf:10000  ]
+NOTICE: 09-28 23:04:49:  pbrpc * 27840 [  logid:  ][  proctime:  ][  reqip:  ][  reqsvr:  ][  cmdno:  ][  svrname:  ][  errno:  ][    ][    ][  Service[UserService] ResBuf:10000  ]
+NOTICE: 09-28 23:04:49:  pbrpc * 27843 --------------------------------------------------------------- open log_r.1106205024 ------------
+NOTICE: 09-28 23:04:49:  pbrpc * 27844 --------------------------------------------------------------- open log_r.1116694880 ------------
+NOTICE: 09-28 23:04:49:  pbrpc * 27845 --------------------------------------------------------------- open log_r.1127184736 ------------
+NOTICE: 09-28 23:04:49:  pbrpc * 27846 --------------------------------------------------------------- open log_r.1137674592 ------------
