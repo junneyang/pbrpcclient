@@ -23,6 +23,3 @@ pbrpcclient
 ![image](screenshot/006.jpg)     
 ![image](screenshot/007.jpg)    
 
-
-
-
